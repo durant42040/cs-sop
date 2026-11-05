@@ -1,0 +1,114 @@
+{
+  "checked": "2026-11-03",
+  "name": "Jason Wei",
+  "applicationYear": 2021,
+  "applicationSource": "https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf",
+  "previousCount": 10,
+  "countUsed": 5,
+  "explicitShort": 2,
+  "inferredShort": 3,
+  "limitation": "Five is a conservative working count, not an independently confirmed exact long-paper total. Three exclusions rely on format inference; without those inferences, the supported interval is 5-8. Other applicants with nonzero counts have not received this full paper-type audit.",
+  "timing": "All five retained papers were published in 2021 before the late-2021 Stanford application represented by the SOP. Later 2022 acceptances are excluded.",
+  "papers": [
+    {
+      "title": "Frequency Effects on Syntactic Rule-Learning in Transformers",
+      "classification": "full",
+      "counted": true,
+      "basis": "Main research paper; main text exceeds the five-page short-paper limit. Official paper and 10m30s presentation checked.",
+      "sources": [
+        "https://aclanthology.org/2021.emnlp-main.72/"
+      ]
+    },
+    {
+      "title": "Good-Enough Example Extrapolation",
+      "classification": "short-inferred",
+      "counted": false,
+      "basis": "Five-page main text, with discussion and the start of references on page five; seven total PDF pages. Classified as short from the content length. Its 396.96-second poster presentation is corroborating evidence only, since video duration alone does not determine paper type. No explicit short/long track label located.",
+      "sources": [
+        "https://aclanthology.org/2021.emnlp-main.479/",
+        "https://aclanthology.org/2021.emnlp-main.479.pdf",
+        "https://arxiv.org/abs/2109.05602"
+      ]
+    },
+    {
+      "title": "Language Model Augmented Relevance Score",
+      "classification": "full",
+      "counted": true,
+      "basis": "Explicit ACL 2021 Long Papers volume.",
+      "sources": [
+        "https://aclanthology.org/2021.acl-long.521/"
+      ]
+    },
+    {
+      "title": "A Cognitive Regularizer for Language Modeling",
+      "classification": "full",
+      "counted": true,
+      "basis": "Explicit ACL 2021 Long Papers volume.",
+      "sources": [
+        "https://aclanthology.org/2021.acl-long.404/"
+      ]
+    },
+    {
+      "title": "Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning",
+      "classification": "short-inferred",
+      "counted": false,
+      "basis": "Five main-text pages followed by references. Official presentation is 422.04 seconds; NAACL specified seven-minute videos for short papers and twelve for long papers. Inference from format, not explicit track metadata.",
+      "sources": [
+        "https://aclanthology.org/2021.naacl-main.434/",
+        "https://aclanthology.org/2021.naacl-main.434.mp4",
+        "https://2021.naacl.org/blog/conference-structure/",
+        "https://2021.naacl.org/calls/papers/"
+      ]
+    },
+    {
+      "title": "Text Augmentation in a Multi-Task View",
+      "classification": "short-explicit",
+      "counted": false,
+      "basis": "Listed under Short papers on the official EACL 2021 accepted-paper page.",
+      "sources": [
+        "https://2021.eacl.org/program/accepted/#short-papers",
+        "https://aclanthology.org/2021.eacl-main.252/"
+      ]
+    },
+    {
+      "title": "Mitigating Political Bias in Language Models through Reinforced Calibration",
+      "classification": "full",
+      "counted": true,
+      "basis": "Ten-page full research paper, AAAI 2021 AI for Social Impact track, pages 14857-14866. Jason Wei is third author. Full research special-track papers qualify.",
+      "sources": [
+        "https://cdn.aaai.org/ojs/17744/17744-13-21238-1-2-20210518.pdf",
+        "https://aaai.org/conference/aaai/aaai-21/aaai-outstanding-and-distinguished-papers/"
+      ]
+    },
+    {
+      "title": "EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks",
+      "classification": "short-explicit",
+      "counted": false,
+      "basis": "Author arXiv comments explicitly identify an EMNLP-IJCNLP 2019 short paper.",
+      "sources": [
+        "https://arxiv.org/abs/1901.11196"
+      ]
+    },
+    {
+      "title": "Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification",
+      "classification": "full",
+      "counted": true,
+      "basis": "Eleven-page WACV 2021 research paper. Jason Wei is twelfth author; first author is Jerry Wei.",
+      "sources": [
+        "https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf"
+      ]
+    },
+    {
+      "title": "Linguistic Complexity Loss in Text-Based Therapy",
+      "classification": "short-inferred",
+      "counted": false,
+      "basis": "Five main-text pages plus an ethics section, references and appendices. Official presentation is 426.04 seconds, matching the seven-minute short-paper format. Inference from format, not explicit track metadata.",
+      "sources": [
+        "https://aclanthology.org/2021.naacl-main.352/",
+        "https://aclanthology.org/2021.naacl-main.352.mp4",
+        "https://2021.naacl.org/blog/conference-structure/",
+        "https://2021.naacl.org/calls/papers/"
+      ]
+    }
+  ]
+}

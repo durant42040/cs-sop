@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-03",
+  "source": "durant42040/cs-sop@976debf94cadd1c1894d095bf68e4ecb5fbbbb56",
+  "metric": "Accepted full main-conference papers by application time; all authorship positions. Workshops, Findings, short papers, posters, demos, journals and journal-based proceedings excluded. Counts are verified lower bounds, not completeness guarantees.",
+  "profiles": [
+    {
+      "name": "Qingyun (Anne) Yang",
+      "year": 2025,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 3,
+      "status": "corrected",
+      "source": "https://anne-yang.github.io/qingyun-yang.github.io/",
+      "note": "MICCAI 2025 and two SPIE Medical Imaging 2025 proceedings papers precede the 2025 application cycle. MIUA abstract excluded."
+    },
+    {
+      "name": "Adithya Bhaskara",
+      "year": 2025,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://officialadithya.github.io/",
+      "note": "Listed conference publication is EC 2026; the application-era liquidity paper remains a preprint."
+    },
+    {
+      "name": "Alex Zhang",
+      "year": 2024,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://alexzhang13.github.io/publications/",
+      "note": "Pre-application venues are workshops. SWE-bench Multimodal at ICLR 2025 was submitted in the 2024 SOP."
+    },
+    {
+      "name": "Carmel Schare",
+      "year": 2023,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://schare.space/cv.html",
+      "note": "Personal CV lists Collabs as arXiv, not an accepted conference paper; publication list may be incomplete."
+    },
+    {
+      "name": "Eugenie Lai",
+      "year": 2020,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://eugenielai.github.io/",
+      "note": "ICDE 2020 and 2021 entries are short papers; later EDBT 2023 paper excluded."
+    },
+    {
+      "name": "Belinda Zou Li",
+      "year": 2019,
+      "schools": [
+        "MIT"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://belindal.github.io/",
+      "note": "Earliest listed main-conference papers are ACL/EMNLP 2020, after the 2019 application; retain application-era submitted statuses."
+    },
+    {
+      "name": "Chelsea Zou",
+      "year": 2023,
+      "schools": [
+        "Stanford"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://bosonphoton.github.io/",
+      "note": "ARDIE was a CoPerception workshop paper in 2023. Later work excluded; research subpage fetch failed."
+    },
+    {
+      "name": "Frieda Rong",
+      "year": 2019,
+      "schools": [
+        "Stanford"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://friedeggs.github.io/cv_frieda_rong.pdf",
+      "note": "CV lists GeoSim at CVPR 2021, after the 2019 application."
+    },
+    {
+      "name": "Rohan Yadav",
+      "year": 2018,
+      "schools": [
+        "Stanford"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://rohany.github.io/",
+      "note": "Earliest listed item is SPAA 2019 brief announcement, followed by POPL 2020; neither qualifies before the 2018 application."
+    },
+    {
+      "name": "Nelson Liu",
+      "year": 2018,
+      "schools": [
+        "Stanford"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://cs.stanford.edu/~nfliu/",
+      "note": "2017–2018 work is workshops. Main NAACL/ACL/EMNLP papers are 2019; retain SOP submission status."
+    },
+    {
+      "name": "Stephan Xie",
+      "year": 2023,
+      "schools": [
+        "Carnegie Mellon"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://stephofx.github.io/",
+      "note": "ESPRESSO is a 2023 journal article. First listed main-conference papers are ICML/NeurIPS 2025."
+    },
+    {
+      "name": "Steven Kolawole",
+      "year": 2022,
+      "schools": [
+        "Carnegie Mellon"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://stevenkolawole.github.io/news",
+      "note": "Author explicitly identifies IJCAI 2022 work as a demo; NeurIPS ML4D is a workshop."
+    },
+    {
+      "name": "Anjali Kantharuban",
+      "year": 2021,
+      "schools": [
+        "Carnegie Mellon"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://www.anjaliruban.com/research.html",
+      "note": "Added missing WiNLP 2021 workshop paper. Listed main-conference work begins in 2023, after the recorded 2021 cycle."
+    },
+    {
+      "name": "Emmy Liu",
+      "year": 2020,
+      "schools": [
+        "Carnegie Mellon"
+      ],
+      "checked": "2026-11-03",
+      "count": 2,
+      "status": "corrected",
+      "source": "https://nightingal3.github.io/assets/pdf/CV_2024.pdf",
+      "note": "CogSci 2019 and 2020 are full proceedings papers, not zero; Open Mind is a journal."
+    },
+    {
+      "name": "Alan Chung Ma",
+      "year": 2024,
+      "schools": [
+        "UC Berkeley",
+        "Purdue University"
+      ],
+      "checked": "2026-11-03",
+      "count": null,
+      "status": "unresolved",
+      "source": "https://alan.chung-ma.com/blog/2025-phd-application-experience/",
+      "note": "Rechecked the full application blog, personal site and talks list. Verified KubeCon 2024 and 2025 talks and software-supply-chain contributions, but found no full-paper publication inventory or matching public Scholar profile. A talk is insufficient evidence of an accepted proceedings paper; count remains unknown.",
+      "evidence": [
+        "https://alan.chung-ma.com/blog/2025-phd-application-experience/",
+        "https://alan.chung-ma.com/talks/"
+      ]
+    },
+    {
+      "name": "Yaowen Ye",
+      "year": 2024,
+      "schools": [
+        "UC Berkeley"
+      ],
+      "checked": "2026-11-03",
+      "count": 2,
+      "status": "corrected",
+      "source": "https://yaowenye.com/",
+      "note": "Two SIGIR 2023 papers were missed by the venue classifier; ICLR 2025 remains submitted at application time."
+    },
+    {
+      "name": "Himanshu Gaurav Singh",
+      "year": 2022,
+      "schools": [
+        "UC Berkeley"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://hgaurav2k.github.io/",
+      "note": "Current page is selected papers only; SOP lists NeurIPS 2022 workshop and ICRA 2023 submission, not accepted main papers."
+    },
+    {
+      "name": "Shangyin Tan",
+      "year": 2021,
+      "schools": [
+        "UC Berkeley"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://shangyit.me/",
+      "note": "Application-era items are OOPSLA 2020 (separate journal-based category), FSE demo and PEPM short paper. UIST 2022 and ICSE 2023 are later."
+    },
+    {
+      "name": "Ritesh Kanchi",
+      "year": 2024,
+      "schools": [
+        "Harvard"
+      ],
+      "checked": "2026-11-03",
+      "count": 2,
+      "status": "corrected",
+      "source": "https://www.riteshkanchi.com/research",
+      "note": "Added CHI 2024 and IDC 2024 full papers. IUI 2025 acceptance before the late-2024 applications is not established; excluded from this count."
+    },
+    {
+      "name": "Silvia Sellán",
+      "year": 2018,
+      "schools": [
+        "University of Toronto"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://www.cs.columbia.edu/~silviasellan/index.html",
+      "note": "Application-era Computer Graphics Forum paper was conditionally accepted; undergraduate journal article is excluded. No promotion based on later publication."
+    },
+    {
+      "name": "lihan",
+      "year": 2023,
+      "schools": [
+        "Cornell",
+        "University of Illinois Urbana-Champaign",
+        "University of Texas at Austin",
+        "University of Southern California"
+      ],
+      "checked": "2026-11-03",
+      "count": null,
+      "status": "skipped",
+      "source": "https://database.feiyue.online/applicant/Applicant-00042/",
+      "note": "Alias; further author matching skipped at user request. Publication count remains unknown."
+    },
+    {
+      "name": "Rajiv Movva",
+      "year": 2021,
+      "schools": [
+        "Cornell"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://rajivmovva.com/",
+      "note": "Application inventory contains workshop papers, journals and a preprint; current research is later PhD work."
+    },
+    {
+      "name": "Hongzheng Chen",
+      "year": 2020,
+      "schools": [
+        "Cornell"
+      ],
+      "checked": "2026-11-03",
+      "count": 1,
+      "status": "corrected",
+      "source": "https://chhzh123.github.io/",
+      "note": "ICCAD 2019 is a full conference paper missed by the classifier; IEEE TCAD is a journal."
+    },
+    {
+      "name": "Enyan Zhang",
+      "year": 2023,
+      "schools": [
+        "Yale University"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://enyanz.com/",
+      "note": "Personal page labels Instilling Inductive Biases with Subnetworks under review; no verified accepted main paper before application."
+    },
+    {
+      "name": "Tianyi Lorena Yan",
+      "year": 2024,
+      "schools": [
+        "Columbia"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://tianyi-lorena-yan-me.web.app/",
+      "note": "Three 2023–2024 papers are Findings. Page dates MuirBench acceptance to January 2025, after the 2024 applications."
+    },
+    {
+      "name": "Colin",
+      "year": 2022,
+      "schools": [
+        "Columbia",
+        "University of Illinois Urbana-Champaign",
+        "University of Chicago"
+      ],
+      "checked": "2026-11-03",
+      "count": null,
+      "status": "skipped",
+      "source": "https://database.feiyue.online/applicant/Applicant-00021/",
+      "note": "Alias; further author matching skipped at user request. Publication count remains unknown."
+    },
+    {
+      "name": "Joice Tang",
+      "year": 2021,
+      "schools": [
+        "University of Washington"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://joicetang.com/papers/",
+      "note": "Author separates the ETHE journal and IUI 2021 workshop; CSCW 2025 is later."
+    },
+    {
+      "name": "Alisa Liu",
+      "year": 2019,
+      "schools": [
+        "University of Washington"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://alisawuffles.github.io/",
+      "note": "CODAH is a 2019 workshop paper. Audio paper appears in DCASE 2020, after the 2019 application; retain submitted ICASSP entry."
+    },
+    {
+      "name": "Benhao Huang",
+      "year": 2024,
+      "schools": [
+        "University of Illinois Urbana-Champaign"
+      ],
+      "checked": "2026-11-03",
+      "count": 1,
+      "status": "corrected",
+      "source": "https://huskydoge.github.io/resume.pdf",
+      "note": "Changed interaction-primitives paper from preprint to ICLR 2024 accepted. AAAI 2025 acceptance relative to the exact application date remains unresolved; count is a lower bound."
+    },
+    {
+      "name": "Mayank Keoliya",
+      "year": 2022,
+      "schools": [
+        "University of Pennsylvania"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://www.engineering.upenn.edu/~mkeoliya/",
+      "note": "ISPASS 2022 is in the official accepted-poster list (three-page paper); PLDI 2023 was submitted at application time."
+    },
+    {
+      "name": "Abhinav Gyawali",
+      "year": 2025,
+      "schools": [
+        "University of Texas at Austin"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://abhizer.com/",
+      "note": "DBSP is a VLDB Journal article, not a full main-conference paper under the agreed metric."
+    },
+    {
+      "name": "Robert Joseph George",
+      "year": 2022,
+      "schools": [
+        "Caltech"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://www.robertj1.com/assets/pdf/academic_cv.pdf",
+      "note": "Incremental Fourier Neural Operator is a NeurIPS 2022 workshop paper; numerical-analysis work was a preprint."
+    },
+    {
+      "name": "Riley Paddock",
+      "year": 2025,
+      "schools": [
+        "University of Michigan"
+      ],
+      "checked": "2026-11-03",
+      "count": null,
+      "status": "unresolved",
+      "source": "https://www.rileypaddock.com/cv",
+      "note": "Read the embedded two-page CV, updated September 3, 2026. It lists IEEE Quantum Week 2025 work accepted for presentation, plus talks and posters, but no corresponding full proceedings paper or acceptance date. No matching public Scholar profile found. Full-paper count remains unverified.",
+      "evidence": [
+        "https://www.rileypaddock.com/cv",
+        "https://drive.google.com/file/d/1fAv-bgJ0TOrroc9WVU9qaWZAzF3tsz4y/view"
+      ]
+    },
+    {
+      "name": "Mushtari Sadia",
+      "year": 2023,
+      "schools": [
+        "University of Michigan",
+        "Purdue University",
+        "UMass Amherst",
+        "University of Virginia",
+        "Virginia Tech",
+        "Stony Brook University"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "confirmed",
+      "source": "https://mushtari-sadia.github.io/phdapp.html",
+      "note": "Application blog explicitly states no publications during application and neither security project was published then."
+    },
+    {
+      "name": "Yuxuan Jiang",
+      "year": 2022,
+      "schools": [
+        "University of Michigan"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://essoz.github.io/publications/",
+      "note": "Matched the systems researcher, not the namesake NLP researcher. Main-conference list starts SOSP 2023; Slooo was a submitted demo in the 2022 SOP."
+    },
+    {
+      "name": "Md Abrar Jahin",
+      "year": 2024,
+      "schools": [
+        "University of Southern California"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://abrar2652.github.io/publications/",
+      "note": "Pre-application accepted entries are journals; current EMNLP 2026 main paper is later."
+    },
+    {
+      "name": "Alireza Arbabi",
+      "year": 2023,
+      "schools": [
+        "University of Southern California"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://alireza-zwolf.github.io/publications/",
+      "note": "Personal publication page lists the two application-era works as arXiv manuscripts; later journals do not qualify."
+    },
+    {
+      "name": "Qinyuan Ye",
+      "year": 2018,
+      "schools": [
+        "University of Southern California"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://yeqy.xyz/",
+      "note": "Application-era relation-extraction manuscript was submitted; conference publication followed in 2019."
+    },
+    {
+      "name": "Zhenghang Hu",
+      "year": null,
+      "schools": [
+        "University of Maryland",
+        "University of Wisconsin–Madison"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "confirmed",
+      "source": "https://zhenghanghu.github.io/2022/07/03/申请总结.html",
+      "note": "Application blog explicitly states no research experience; zero supported directly. Page title and timestamp disagree on cycle, so no year inferred."
+    },
+    {
+      "name": "Asif Haider",
+      "year": 2024,
+      "schools": [
+        "UC Irvine"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://asifhaider.github.io/",
+      "note": "Prior accepted work is NLBSE workshop and Results in Physics journal. ICIP 2025 and MSR 2026 are later."
+    },
+    {
+      "name": "Arka Dutta",
+      "year": 2022,
+      "schools": [
+        "Rochester Institute of Technology"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://www.cicba.in/CICBA_2024/cfp.pdf",
+      "note": "Scholar lists CICBA 2023 as the earliest paper. The original CICBA 2023 CFP schedules first-round decisions for December 28, 2022 and final decisions for January 12, 2023. The 2022 application SOP lists this work as submitted; zero accepted full main-conference papers is supported for that application snapshot.",
+      "evidence": [
+        "https://scholar.google.com/citations?hl=en&user=ZCxV0PgAAAAJ",
+        "https://www.cicba.in/CICBA_2024/cfp.pdf"
+      ]
+    },
+    {
+      "name": "Feiran (Alex) Qin",
+      "year": 2022,
+      "schools": [
+        "North Carolina State University"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://feiranq.in/cv.pdf",
+      "note": "Personal CV publication list begins ACSOS 2024, after the 2022 application. Avoided same-name security researcher."
+    },
+    {
+      "name": "Mahyar Karimi",
+      "year": 2022,
+      "schools": [
+        "Institute of Science and Technology Austria"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://scholar.google.com/citations?hl=en&user=J6Tlj6QAAAAJ",
+      "note": "Scholar lists CAV 2023 and FAccT 2023 as the earliest papers. Their submission deadlines were February 3 and February 6, 2023, respectively, after the recorded 2022 application snapshot. Retain the application-era TACAS submission; zero accepted main-conference papers is supported.",
+      "evidence": [
+        "https://scholar.google.com/citations?hl=en&user=J6Tlj6QAAAAJ",
+        "https://lics.siglog.org/newsletters/233.html",
+        "https://facctconference.org/2023/cfp.html"
+      ]
+    },
+    {
+      "name": "Luke",
+      "year": 2022,
+      "schools": [
+        "Northwestern University"
+      ],
+      "checked": "2026-11-03",
+      "count": null,
+      "status": "skipped",
+      "source": "https://database.feiyue.online/applicant/Applicant-00020/",
+      "note": "Alias; further author matching skipped at user request. Publication count remains unknown."
+    },
+    {
+      "name": "Jake Chanenson",
+      "year": 2020,
+      "schools": [
+        "University of Chicago"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://jakec007.github.io/CV/",
+      "note": "Added 2019 IEEE VR poster paper (two pages), excluded from full-paper count. CHI 2023 and PETS 2025 are later."
+    },
+    {
+      "name": "Jenna Russell",
+      "year": 2023,
+      "schools": [
+        "UMass Amherst"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "confirmed",
+      "source": "https://jenna-russell.github.io/news/",
+      "note": "Author announces first paper in January 2025, after the 2023 application."
+    },
+    {
+      "name": "Md Zarif Ul Alam",
+      "year": 2023,
+      "schools": [
+        "UMass Amherst"
+      ],
+      "checked": "2026-11-03",
+      "count": 0,
+      "status": "reviewed",
+      "source": "https://zarif98sjs.github.io/research/",
+      "note": "Application-era research includes a Bioinformatics journal project; NeurIPS 2024 work is a workshop. Neither qualifies for the main-conference count."
+    }
+  ]
+}

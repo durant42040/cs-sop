@@ -1,0 +1,14 @@
+:root {
+  --ink: #17202d;
+  --line: #e2e7ed;
+  --accent: #8c2131;
+  --accent-soft: #f8eef0;
+  --blue: #3454d1;
+  color: var(--ink);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+body { min-width: 0; margin: 0; }
+button, input { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid rgba(52,84,209,.25); outline-offset: 2px; }

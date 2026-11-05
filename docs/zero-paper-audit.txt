@@ -1,0 +1,200 @@
+ZERO-PAPER PROFILE AUDIT — 2026-11-03
+Accepted full main-conference papers by application time; all authorship positions. Workshops, Findings, short papers, posters, demos, journals and journal-based proceedings excluded. Counts are verified lower bounds, not completeness guarantees.
+44 named profiles reviewed; 3 aliases skipped at user request. Two named profiles remain unresolved. Reviewed publication lists are not completeness guarantees.
+
+Qingyun (Anne) Yang: 3 (corrected)
+MICCAI 2025 and two SPIE Medical Imaging 2025 proceedings papers precede the 2025 application cycle. MIUA abstract excluded.
+https://anne-yang.github.io/qingyun-yang.github.io/
+
+Adithya Bhaskara: 0 (reviewed)
+Listed conference publication is EC 2026; the application-era liquidity paper remains a preprint.
+https://officialadithya.github.io/
+
+Alex Zhang: 0 (reviewed)
+Pre-application venues are workshops. SWE-bench Multimodal at ICLR 2025 was submitted in the 2024 SOP.
+https://alexzhang13.github.io/publications/
+
+Carmel Schare: 0 (reviewed)
+Personal CV lists Collabs as arXiv, not an accepted conference paper; publication list may be incomplete.
+https://schare.space/cv.html
+
+Eugenie Lai: 0 (reviewed)
+ICDE 2020 and 2021 entries are short papers; later EDBT 2023 paper excluded.
+https://eugenielai.github.io/
+
+Belinda Zou Li: 0 (reviewed)
+Earliest listed main-conference papers are ACL/EMNLP 2020, after the 2019 application; retain application-era submitted statuses.
+https://belindal.github.io/
+
+Chelsea Zou: 0 (reviewed)
+ARDIE was a CoPerception workshop paper in 2023. Later work excluded; research subpage fetch failed.
+https://bosonphoton.github.io/
+
+Frieda Rong: 0 (reviewed)
+CV lists GeoSim at CVPR 2021, after the 2019 application.
+https://friedeggs.github.io/cv_frieda_rong.pdf
+
+Rohan Yadav: 0 (reviewed)
+Earliest listed item is SPAA 2019 brief announcement, followed by POPL 2020; neither qualifies before the 2018 application.
+https://rohany.github.io/
+
+Nelson Liu: 0 (reviewed)
+2017–2018 work is workshops. Main NAACL/ACL/EMNLP papers are 2019; retain SOP submission status.
+https://cs.stanford.edu/~nfliu/
+
+Stephan Xie: 0 (reviewed)
+ESPRESSO is a 2023 journal article. First listed main-conference papers are ICML/NeurIPS 2025.
+https://stephofx.github.io/
+
+Steven Kolawole: 0 (reviewed)
+Author explicitly identifies IJCAI 2022 work as a demo; NeurIPS ML4D is a workshop.
+https://stevenkolawole.github.io/news
+
+Anjali Kantharuban: 0 (reviewed)
+Added missing WiNLP 2021 workshop paper. Listed main-conference work begins in 2023, after the recorded 2021 cycle.
+https://www.anjaliruban.com/research.html
+
+Emmy Liu: 2 (corrected)
+CogSci 2019 and 2020 are full proceedings papers, not zero; Open Mind is a journal.
+https://nightingal3.github.io/assets/pdf/CV_2024.pdf
+
+Alan Chung Ma: unresolved (unresolved)
+Rechecked the full application blog, personal site and talks list. Verified KubeCon 2024 and 2025 talks and software-supply-chain contributions, but found no full-paper publication inventory or matching public Scholar profile. A talk is insufficient evidence of an accepted proceedings paper; count remains unknown.
+https://alan.chung-ma.com/blog/2025-phd-application-experience/
+https://alan.chung-ma.com/blog/2025-phd-application-experience/
+https://alan.chung-ma.com/talks/
+
+Yaowen Ye: 2 (corrected)
+Two SIGIR 2023 papers were missed by the venue classifier; ICLR 2025 remains submitted at application time.
+https://yaowenye.com/
+
+Himanshu Gaurav Singh: 0 (reviewed)
+Current page is selected papers only; SOP lists NeurIPS 2022 workshop and ICRA 2023 submission, not accepted main papers.
+https://hgaurav2k.github.io/
+
+Shangyin Tan: 0 (reviewed)
+Application-era items are OOPSLA 2020 (separate journal-based category), FSE demo and PEPM short paper. UIST 2022 and ICSE 2023 are later.
+https://shangyit.me/
+
+Ritesh Kanchi: 2 (corrected)
+Added CHI 2024 and IDC 2024 full papers. IUI 2025 acceptance before the late-2024 applications is not established; excluded from this count.
+https://www.riteshkanchi.com/research
+
+Silvia Sellán: 0 (reviewed)
+Application-era Computer Graphics Forum paper was conditionally accepted; undergraduate journal article is excluded. No promotion based on later publication.
+https://www.cs.columbia.edu/~silviasellan/index.html
+
+lihan: skipped (skipped)
+Alias; further author matching skipped at user request. Publication count remains unknown.
+https://database.feiyue.online/applicant/Applicant-00042/
+
+Rajiv Movva: 0 (reviewed)
+Application inventory contains workshop papers, journals and a preprint; current research is later PhD work.
+https://rajivmovva.com/
+
+Hongzheng Chen: 1 (corrected)
+ICCAD 2019 is a full conference paper missed by the classifier; IEEE TCAD is a journal.
+https://chhzh123.github.io/
+
+Enyan Zhang: 0 (reviewed)
+Personal page labels Instilling Inductive Biases with Subnetworks under review; no verified accepted main paper before application.
+https://enyanz.com/
+
+Tianyi Lorena Yan: 0 (reviewed)
+Three 2023–2024 papers are Findings. Page dates MuirBench acceptance to January 2025, after the 2024 applications.
+https://tianyi-lorena-yan-me.web.app/
+
+Colin: skipped (skipped)
+Alias; further author matching skipped at user request. Publication count remains unknown.
+https://database.feiyue.online/applicant/Applicant-00021/
+
+Joice Tang: 0 (reviewed)
+Author separates the ETHE journal and IUI 2021 workshop; CSCW 2025 is later.
+https://joicetang.com/papers/
+
+Alisa Liu: 0 (reviewed)
+CODAH is a 2019 workshop paper. Audio paper appears in DCASE 2020, after the 2019 application; retain submitted ICASSP entry.
+https://alisawuffles.github.io/
+
+Benhao Huang: 1 (corrected)
+Changed interaction-primitives paper from preprint to ICLR 2024 accepted. AAAI 2025 acceptance relative to the exact application date remains unresolved; count is a lower bound.
+https://huskydoge.github.io/resume.pdf
+
+Mayank Keoliya: 0 (reviewed)
+ISPASS 2022 is in the official accepted-poster list (three-page paper); PLDI 2023 was submitted at application time.
+https://www.engineering.upenn.edu/~mkeoliya/
+
+Abhinav Gyawali: 0 (reviewed)
+DBSP is a VLDB Journal article, not a full main-conference paper under the agreed metric.
+https://abhizer.com/
+
+Robert Joseph George: 0 (reviewed)
+Incremental Fourier Neural Operator is a NeurIPS 2022 workshop paper; numerical-analysis work was a preprint.
+https://www.robertj1.com/assets/pdf/academic_cv.pdf
+
+Riley Paddock: unresolved (unresolved)
+Read the embedded two-page CV, updated September 3, 2026. It lists IEEE Quantum Week 2025 work accepted for presentation, plus talks and posters, but no corresponding full proceedings paper or acceptance date. No matching public Scholar profile found. Full-paper count remains unverified.
+https://www.rileypaddock.com/cv
+https://www.rileypaddock.com/cv
+https://drive.google.com/file/d/1fAv-bgJ0TOrroc9WVU9qaWZAzF3tsz4y/view
+
+Mushtari Sadia: 0 (confirmed)
+Application blog explicitly states no publications during application and neither security project was published then.
+https://mushtari-sadia.github.io/phdapp.html
+
+Yuxuan Jiang: 0 (reviewed)
+Matched the systems researcher, not the namesake NLP researcher. Main-conference list starts SOSP 2023; Slooo was a submitted demo in the 2022 SOP.
+https://essoz.github.io/publications/
+
+Md Abrar Jahin: 0 (reviewed)
+Pre-application accepted entries are journals; current EMNLP 2026 main paper is later.
+https://abrar2652.github.io/publications/
+
+Alireza Arbabi: 0 (reviewed)
+Personal publication page lists the two application-era works as arXiv manuscripts; later journals do not qualify.
+https://alireza-zwolf.github.io/publications/
+
+Qinyuan Ye: 0 (reviewed)
+Application-era relation-extraction manuscript was submitted; conference publication followed in 2019.
+https://yeqy.xyz/
+
+Zhenghang Hu: 0 (confirmed)
+Application blog explicitly states no research experience; zero supported directly. Page title and timestamp disagree on cycle, so no year inferred.
+https://zhenghanghu.github.io/2022/07/03/申请总结.html
+
+Asif Haider: 0 (reviewed)
+Prior accepted work is NLBSE workshop and Results in Physics journal. ICIP 2025 and MSR 2026 are later.
+https://asifhaider.github.io/
+
+Arka Dutta: 0 (reviewed)
+Scholar lists CICBA 2023 as the earliest paper. The original CICBA 2023 CFP schedules first-round decisions for December 28, 2022 and final decisions for January 12, 2023. The 2022 application SOP lists this work as submitted; zero accepted full main-conference papers is supported for that application snapshot.
+https://www.cicba.in/CICBA_2024/cfp.pdf
+https://scholar.google.com/citations?hl=en&user=ZCxV0PgAAAAJ
+https://www.cicba.in/CICBA_2024/cfp.pdf
+
+Feiran (Alex) Qin: 0 (reviewed)
+Personal CV publication list begins ACSOS 2024, after the 2022 application. Avoided same-name security researcher.
+https://feiranq.in/cv.pdf
+
+Mahyar Karimi: 0 (reviewed)
+Scholar lists CAV 2023 and FAccT 2023 as the earliest papers. Their submission deadlines were February 3 and February 6, 2023, respectively, after the recorded 2022 application snapshot. Retain the application-era TACAS submission; zero accepted main-conference papers is supported.
+https://scholar.google.com/citations?hl=en&user=J6Tlj6QAAAAJ
+https://scholar.google.com/citations?hl=en&user=J6Tlj6QAAAAJ
+https://lics.siglog.org/newsletters/233.html
+https://facctconference.org/2023/cfp.html
+
+Luke: skipped (skipped)
+Alias; further author matching skipped at user request. Publication count remains unknown.
+https://database.feiyue.online/applicant/Applicant-00020/
+
+Jake Chanenson: 0 (reviewed)
+Added 2019 IEEE VR poster paper (two pages), excluded from full-paper count. CHI 2023 and PETS 2025 are later.
+https://jakec007.github.io/CV/
+
+Jenna Russell: 0 (confirmed)
+Author announces first paper in January 2025, after the 2023 application.
+https://jenna-russell.github.io/news/
+
+Md Zarif Ul Alam: 0 (reviewed)
+Application-era research includes a Bioinformatics journal project; NeurIPS 2024 work is a workshop. Neither qualifies for the main-conference count.
+https://zarif98sjs.github.io/research/

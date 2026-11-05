@@ -1,0 +1,633 @@
+ACCEPTED CONFERENCE PAPER COUNTS — 2026-11-05
+
+- Recorded application-time accepted full main-conference papers; all authorship positions.
+- Uses the current cs-sop list. Previously zero-count profiles were checked against personal sites; see docs/zero-paper-audit.json for evidence and unresolved cases.
+- Deduplicated by normalized title within each student. Counted once per school for multi-school profiles.
+- Workshops, Findings, journals, journal-based proceedings, short papers, demos, abstracts, industry tracks, position papers, symposium presentations and conditional acceptances excluded from main count.
+- All listed students are included in the denominator. Empty inventories count as zero for this statistic; unresolved identity or timing does not establish a verified zero. Unresolved venue entries do not enter the numerator and are flagged in the detail.
+- Main-venue labels are treated as research papers unless the saved label indicates otherwise; individual paper length and acceptance date are not independently reverified.
+- These are provisional saved-sample statistics, not population admissions averages or admissions requirements.
+- Separate-category counts may overlap for a work appearing in several venues; do not sum them as unique papers.
+
+MIT: 1.40 papers/student; 21 papers / 15 counted profiles; 0 excluded
+  Aayush Kumar: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://github.com/Aeyush10/Aeyush10.github.io/blob/8f8103c1d3ce585033def700bfe6e55f1ca30cb1/phd_sop/Aayush_Kumar_SOP_Fall_2026.pdf
+    Why AI Agents Still Need You: Findings from Developer-Agent Collaborations in the Wild: ASE 2025 [main]
+    Trust in Generative AI among Students: An Exploratory Study: SIGCSE 2024 [main]
+    End-User Programming is WEIRD: How, Why and What to Do About It: VL/HCC 2023 [main]
+  Jayden Teoh: 3 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://github.com/JaydenTeoh/JaydenTeoh.github.io/blob/a559d80633da9a77121f6607283d906edaaa5c2c/data/PhD_Statement_of_Purpose.pdf
+    The Elicitation Game: Evaluating Capability Elicitation Techniques: ICML 2025 [main]
+    On Generalization Across Environments In Multi-Objective Reinforcement Learning: ICLR 2025 [main]
+    Improving Environment Novelty Quantification for Effective Unsupervised Environment Design: NeurIPS 2024 Oral [main]
+  Qingyun (Anne) Yang: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://anne-yang.github.io/qingyun-yang.github.io/posts/2026/04/PhD/
+    Augmented Reality-Based Guidance with Deformable Registration in Head and Neck Tumor Resection: MICCAI 2025 [main]
+    Nonrigid Alignment of En Bloc Tissue Specimen to Resection Bed to Enhance Correspondence for Re-Resection Guidance: SPIE Medical Imaging 2025 [main]
+    Automated segmentation of central airway obstruction from endoscopic video stream with deep learning: SPIE Medical Imaging 2025 [main]
+  Adithya Bhaskara: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://officialadithya.github.io/blog/2026/my-phd-application-experience/
+  Andre Ye: 3 recorded main; Findings 0; hybrid 0; workshop 1 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://andre-ye.org/assets/pdf/phd-sop.pdf
+    Language Models as Critical Thinking Tools: A Case Study of Philosophers: COLM 2024 [main]
+    A Roadmap to Pluralistic Alignment: ICML 2024 [main]
+    Confidence Contours: Uncertainty-Aware Annotation for Medical Semantic Segmentation: HCOMP 2023 [main]
+    And Then the Hammer Broke: Reflections on Machine Ethics from Feminist Philosophy of Science: Pacific University Philosophy Conference 2024 [unknown]
+  Alex Zhang: 0 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://alexzhang13.github.io/assets/pdfs/sop.pdf
+  Kendall Nakai: 2 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://kendallnakai.medium.com/breaking-down-my-phd-statement-of-purpose-38b2a845148c
+    Uncovering the Hidden Curriculum of University Computing Majors via Undergraduate-Written Mentoring Guides: A Learner-Centered Design Workflow: ICER 2023 [main]
+    Freeform Templates: Combining Freeform Curation with Structured Templates: Creativity & Cognition 2023 [main]
+  Carmel Schare: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://schare.space/now.html
+  Chanwoo Park: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1ny4ghbUol61v26b-bi6lfylMQwOclyWZ/view
+    A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast: NeurIPS 2021 [main]
+  Tianwei Yin: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://tianweiy.github.io/docs/sop.pdf
+    Multimodal Virtual Point 3D Detection: NeurIPS 2021 [main]
+    Center-Based 3D Object Detection and Tracking: CVPR 2021 [main]
+    End-to-End Sequential Sampling and Reconstruction for MRI: ML4H 2021 · Best Paper [main]
+  Eugenie Lai: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://eugenielai.github.io/docs/application/sop-mit-eylai.pdf
+  Belinda Zou Li: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://docs.google.com/document/d/1BHHX8R1nVTuE9qKIq7B9GA02mB4Rg6ZOb5OSNAoajAc/edit
+  Ameya Daigavane: 0 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing
+  Xiaochen Zhu: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing
+    Blink: Link Local Differential Privacy in Graph Neural Networks: CCS 2023 [main]
+  Xingjian Bai: 2 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://xingjianbai.com/
+    Sorting with Predictions: NeurIPS 2023 [main]
+    Wasserstein Distributional Robustness of Neural Networks: NeurIPS 2023 [main]
+
+Stanford: 2.80 papers/student; 28 papers / 10 counted profiles; 0 excluded
+  Ben Shi: 4 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://docs.google.com/document/d/1nlLtrA8GDjRY4TTLNFUd3rtFteBVwK7_mpH3cMWiMFw/edit
+    When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration: NeurIPS 2025 [main]
+    Can Language Models Solve Olympiad Programming?: COLM 2024 [main]
+    IMPersona: Evaluating Individual Level LM Impersonation: COLM 2025 [main]
+    BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval: ICLR 2025 [main]
+  Miguel Liu-Schiaffini: 2 recorded main; Findings 0; hybrid 0; workshop 2 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://mliuschi.github.io/assets/pdf/Miguel_Liu_Schiaffini_CV.pdf
+    Neural Operators with Localized Integral and Differential Kernels: ICML 2024 [main]
+    Neural Operators for Accelerating Scientific Simulations and Design: Nature Reviews Physics [unknown]
+    Learning Dissipative Dynamics in Chaotic Systems: NeurIPS 2022 [main]
+    Ice Thickness From Deep Learning and Conditional Random Fields: Application to Ice-Penetrating Radar Data With Radiometric Validation: IEEE Transactions on Geoscience and Remote Sensing [unknown]
+  Rishabh Ranjan: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://rishabh-ranjan.github.io/assets/phd_sop.pdf
+    A Solver-Free Framework for Scalable Learning in Neural ILP Architectures: NeurIPS 2022 [main]
+    GREED: A Neural Framework for Learning Graph Distance Functions: NeurIPS 2022 [main]
+    Exploiting Epochs and Symmetries in Analysing MPI Programs: ASE 2022 [main]
+  Chenglei Si: 3 recorded main; Findings 3; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1fmp1SjQlqNhb6rniF7HBuF3Pxj9iz0TO/view
+    What’s in a Name? Answer Equivalence for Open-Domain Question Answering: EMNLP 2021 [main]
+    Adversarial Training for Machine Reading Comprehension with Virtual Embeddings: *SEM 2021 [main]
+    CharBERT: Character-aware Pre-trained Language Model: COLING 2020 [main]
+  Daneshvar Amrollahi: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1UTYiKBmxEgfLLQVeK_Vcchax4gM_7cq9/view
+    Solving Invariant Generation for Unsolvable Loops: SAS 2022 · Young Researcher Best Paper [main]
+  Jason Wei: 5 recorded main; Findings 2; hybrid 0; workshop 3
+    Source: https://jasonwei20.github.io/files/2021_Stanford_SoP.pdf
+    Frequency Effects on Syntactic Rule-Learning in Transformers: EMNLP 2021 [main]
+    Language Model Augmented Relevance Score: ACL 2021 [main]
+    A Cognitive Regularizer for Language Modeling: ACL 2021 [main]
+    Mitigating Political Bias in Language Models through Reinforced Calibration: AAAI 2021 [main]
+    Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification: WACV 2021 [main]
+  Frieda Rong: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://drive.google.com/file/d/13xJxKYx0jvybwzMcdFjLzl7Bz4B31tiX/view
+  Rohan Yadav: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://rohany.github.io/sop.pdf
+  Nelson Liu: 0 recorded main; Findings 0; hybrid 0; workshop 4
+    Source: https://cs.stanford.edu/~nfliu/files/phd_sop/nfliu_phd_sop.pdf
+  David Heineman: 10 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://davidheineman.com/sop.pdf
+    Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation: NeurIPS 2025 · Spotlight [main]
+    Fluid Language Model Benchmarking: COLM 2025 · Oral [main]
+    Establishing Task Scaling Laws via Compute-Efficient Model Ladders: COLM 2025 [main]
+    DataDecide: How to Predict Best Pretraining Data with Small Experiments: ICML 2025 [main]
+    2 OLMo 2 Furious: COLM 2025 [main]
+    Evaluating LLMs on Chinese Idiom Translation: COLM 2025 [main]
+    Improving Minimum Bayes Risk Decoding with Multi-Prompt: EMNLP 2024 [main]
+    Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA: EMNLP 2023 [main]
+    LENS: A Learnable Evaluation Metric for Text Simplification: ACL 2023 [main]
+    Towards a Path Dependent Account of Category Fluency: CogSci 2024 [main]
+
+Carnegie Mellon: 1.71 papers/student; 24 papers / 14 counted profiles; 0 excluded
+  Peiyang Song: 4 recorded main; Findings 2; hybrid 0; workshop 3
+    Source: https://raw.githubusercontent.com/Peiyang-Song/peiyang-song.github.io/b45af71e365e78aee5d3148b79eb2a435bb5cb86/data/Peiyang_Song_CV.pdf
+    Lean Copilot: Large Language Models as Copilots for Theorem Proving in Lean: NeuS 2025 [main]
+    LeanAgent: Lifelong Learning for Formal Theorem Proving: ICLR 2025 [main]
+    LeanDojo: Theorem Proving with Retrieval-Augmented Language Models: NeurIPS 2023 · Oral [main]
+    Energy Efficient Convolutions with Temporal Arithmetic: ASPLOS 2024 [main]
+  Ava Pun: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1u7gPj0L9w4LHszIIPFy4Z2b4xSoNtsg9/view
+    Neural Lighting Simulation for Urban Scenes: NeurIPS 2023 [main]
+    AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles: CVPR 2021 [main]
+  Stephan Xie: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://stephofx.github.io/2024/10/19/admissions.html
+  Shaily Bhatt: 3 recorded main; Findings 1; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1hbIW1usf9ochBC77xx9efa74k0pcwqrU/view
+    Re-contextualizing Fairness in NLP: The Case of India: AACL 2022 [main]
+    On the Universality of Deep Contextual Language Models: ICON 2021 [main]
+    Fake News Detection: Experiments and Approaches Beyond Linguistic Features: ICDMAI 2021 [main]
+  Steven Kolawole: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://stevenkolawole.github.io/assets/Steven_Kolawole_SOP.pdf
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Harshita Diddee: 1 recorded main; Findings 0; hybrid 0; workshop 1 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://harshitadd.netlify.app/advice/
+    The Six Conundrums of Building and Deploying Language Technologies for Social Good: COMPASS 2022 [unknown]
+    CrossPriv: User Privacy Preservation Model for Cross-Silo Federated Software: ASE 2020 [main]
+  Anjali Kantharuban: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1vc89crZhHvYk_5-bz-EX6FMMxs2z1DCM/view
+  Naveen Raman: 2 recorded main; Findings 0; hybrid 0; workshop 3
+    Source: https://naveenraman.com/assets/sop/CMU_ML_Statement_of_Purpose.pdf
+    Data-Driven Methods for Balancing Fairness and Efficiency in Ride-Pooling: IJCAI 2021 [main]
+    A Muffin-Theorem Generator: FUN 2018 [main]
+  Jing Yu Koh: 7 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://jykoh.com/jykoh_sop.pdf
+    Pathdreamer: A World Model for Indoor Navigation: ICCV 2021 [main]
+    Cross-Modal Contrastive Learning for Text-to-Image Generation: CVPR 2021 [main]
+    Text-to-Image Generation Grounded by Fine-Grained User Attention: WACV 2021 [main]
+    SideInfNet: A Deep Neural Network for Semi-Automatic Semantic Segmentation with Side Information: ECCV 2020 [main]
+    Urban Zoning Using Higher-Order Markov Random Fields on Multi-View Imagery Data: ECCV 2018 [main]
+    Object Boundary Detection and Classification with Image-Level Labels: GCPR 2017 [main]
+    Improving Customer Satisfaction in Bike Sharing Systems through Dynamic Repositioning: IJCAI 2019 [main]
+  Emmy Liu: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://nightingal3.github.io/assets/pdf/CV_2024.pdf
+    Chaining and the Process of Scientific Innovation: CogSci 2020 [main]
+    Rapid Information Gain Explains Cross-Linguistic Tendencies in Numeral Ordering: CogSci 2019 [main]
+  Jared Fernandez: 1 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://docs.google.com/document/d/19ggbIbh5VZa-aOS3EUqKpsP3IQ5YBIJzbmOJIkjRm-Q/edit
+    VecShare: A Framework for Sharing Word Representation Vectors: EMNLP 2017 [main]
+  Jason Wu: 1 recorded main; Findings 0; hybrid 1; workshop 0
+    Source: https://docs.google.com/document/d/1mOxHAyg3aviRub7kVmsDUcZ3fm7lxM3Z4nPBJcP6EyA/edit
+    Whoosh: Non-Voice Acoustics for Low-Cost, Hands-Free, and Rapid Input on Smartwatches: ISWC 2016 [main]
+  Jenny Liang: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing
+
+UC Berkeley: 1.89 papers/student; 17 papers / 9 counted profiles; 0 excluded
+  Prasann Singhal: 4 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://docs.google.com/document/d/1Y5gx5-CzbP4Tj6-Tuj_9kvVgT9wUjZgHa_uTzsZ7EdY/edit
+    D2PO: Discriminator-Guided DPO with Response Evaluation Models: COLM 2024 [main]
+    A Long Way to Go: Investigating Length Correlations in RLHF: COLM 2024 Spotlight [main]
+    EEL: Efficiently Encoding Lattices for Reranking: ACL 2023 [main]
+    Assessing Out-of-Domain Language Model Performance from Few Examples: EACL 2023 [main]
+  Harman Singh: 5 recorded main; Findings 1; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1tB6fpiCaiSdIl_f0nYLOD9QYFtZNTRWO/view
+    IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages: ACL 2024 [main]
+    Coarse-to-Fine Contrastive Learning in Image-Text-Graph Space for Improved Vision-Language Compositionality: EMNLP 2023 [main]
+    Image Manipulation via Multi-Hop Instructions: A New Dataset and Weakly-Supervised Neuro-Symbolic Approach: EMNLP 2023 [main]
+    FaiRR: Faithful and Robust Deductive Reasoning over Natural Language: ACL 2022 [main]
+    A Novel Network Representation of SARS-CoV-2 Sequencing Data: ISBRA 2021 [main]
+  Alan Chung Ma: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://alan.chung-ma.com/blog/2025-phd-application-experience/
+  Yaowen Ye: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://helloelwin.github.io/files/2025/sop-berkeley.pdf
+    Graph Masked Autoencoder for Sequential Recommendation: SIGIR 2023 [main]
+    Masked Graph Transformer for Recommendation: SIGIR 2023 [main]
+  Himanshu Gaurav Singh: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1WAqxOMPojVZb3bU5EAq9rNRx21gVMMY3/view
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Shangyin Tan: 0 recorded main; Findings 0; hybrid 1; workshop 0
+    Source: https://drive.google.com/file/d/1E5nUESgKmdkDtXl2CT5Jq1CYX7jKxxBQ/view
+  Ritwik Gupta: 1 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://ritwikgupta.me/assets/pdfs/RitwikStatementOfPurpose.pdf
+    Focusing on the Big Picture: Insights into a Systems Approach to Deep Learning for Satellite Imagery: IEEE Big Data 2018 [main]
+  Sanjay Subramanian: 4 recorded main; Findings 2; hybrid 0; workshop 2
+    Source: https://www.openessays.org/essays/uc-berkeley-phd-nlp-sop-essay-sanjay-2024
+    Obtaining Faithful Interpretations from Compositional Neural Networks: ACL 2020 [main]
+    AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models: EMNLP 2019 [main]
+    Improving Generalization in Coreference Resolution via Adversarial Training: *SEM 2019 [main]
+    Correlation Clustering with Same-Cluster Queries Bounded by Optimal Cost: ESA 2019 [main]
+
+Harvard: 3.00 papers/student; 6 papers / 2 counted profiles; 0 excluded
+  Ritesh Kanchi: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://riteshkanchi.medium.com/applying-to-hci-phds-7422f490fef1
+    “I want it to talk like Darth Vader”: Helping Children Construct Creative Self-Efficacy with Generative AI: CHI 2024 [main]
+    “Why is Everything in the Cloud?”: Co-Designing Visual Cues Representing Data Processes with Children: IDC 2024 [main]
+  Rachit Bansal: 4 recorded main; Findings 1; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1FRV6a7sl2WTa5lBhYZGpR6WDh0O-LzfZ/view
+    Linear Connectivity Reveals Generalization Strategies: ICLR 2023 [main]
+    Measures of Information Reflect Memorization Patterns: NeurIPS 2022 [main]
+    CoSe-Co: Text Conditioned Generative CommonSense Contextualizer: NAACL 2022 [main]
+    Combining Exogenous and Endogenous Signals with a Semi-supervised Co-attention Network for Early Detection of COVID-19 Fake Tweets: PAKDD 2021 [main]
+
+University of Toronto: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Silvia Sellán: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://www.dgp.toronto.edu/~sgsellan/grad-questions/phd-statement.html
+
+Princeton: 2.00 papers/student; 10 papers / 5 counted profiles; 0 excluded
+  Zhuorui Ye: 1 recorded main; Findings 1; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1IPsYHj0Cg7EcIIhN2oER9pS6F-6t6QJc/view
+    Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence: AAAI 2024 [main]
+  Haozhe (Tony) Chen: 5 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1ArlAeqq7EeeAVqem6sjMH5xy4Jhiex62/view
+    QGym: Scalable Simulation and Benchmarking of Queuing Network Controllers: NeurIPS 2024 [main]
+    EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control: EMNLP 2024 [main]
+    Detecting Empathy in Speech: INTERSPEECH 2024 [main]
+    SelfIE: Self-Interpretation of Large Language Model Embeddings: ICML 2024 [main]
+    INViTE: INterpret and Control Vision-Language Models with Text Explanations: ICLR 2024 [main]
+  Yoonsang Lee: 1 recorded main; Findings 2; hybrid 0; workshop 2
+    Source: https://github.com/yoonsang-lee/yoonsang-lee.github.io/blob/3fdc3792fefa486a9ada198a54015bcdb5d25589/assets/pdf/sop.pdf
+    AmbigDocs: Reasoning across Documents on Different Entities under the Same Name: COLM 2024 [main]
+  Inhwa Song: 0 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view
+  Md Toki Tahmid: 3 recorded main; Findings 0; hybrid 0; workshop 6
+    Source: https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing
+    Long-Range Low-Cost Networking for Real-Time Monitoring of Rail Tracks in Developing Countries: ICTD 2022 [main]
+    State-of-the-Art Artificial Intelligence Based Cyber Defense Model: SOLI 2021 [main]
+    Artificial Intelligence Based Cybersecurity: Two-Step Suitability Test: SOLI 2021 [main]
+
+Cornell: 0.83 papers/student; 5 papers / 6 counted profiles; 0 excluded
+  Jake Hyun: 1 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://syphon.tistory.com/138
+    Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs: ICML 2024 [main]
+    ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings: IEEE VIS 2023 [unknown]
+  lihan: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00042/
+  Youming Deng: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://denghilbert.github.io/blog/PhD%E7%94%B3%E8%AF%B7%E5%9B%9E%E5%BF%86.html
+    Hierarchical Memory Learning for Fine-Grained Scene Graph Generation: ECCV 2022 [main]
+  Aditya Chetan: 2 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://justachetan.github.io/assets/pdf/cornell_sop.pdf
+    CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities: WSDM 2019 [main]
+    Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services: ASONAM 2018 [main]
+  Rajiv Movva: 0 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://docs.google.com/document/d/1BWIeqbMG8XexzYpkumdcC0GwQeDDrlSpTed5hsMFNFg/edit
+  Hongzheng Chen: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://chhzh123.github.io/blogs/2021-05-22-phd-application/
+    A Deep-Reinforcement-Learning-Based Scheduler for FPGA HLS: ICCAD 2019 [main]
+
+Yale University: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Enyan Zhang: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://enyanz.com/posts/grad-school/yale_sop.pdf
+
+Columbia: 1.17 papers/student; 7 papers / 6 counted profiles; 0 excluded
+  Tianyi Lorena Yan: 0 recorded main; Findings 3; hybrid 0; workshop 0
+    Source: https://tianyi-lorena-yan-me.web.app/tianyi_lorena_yan_sop.pdf
+  Shreyas Havaldar: 1 recorded main; Findings 0; hybrid 0; workshop 3
+    Source: https://drive.google.com/file/d/1A0n07nq6Oslb-E7RRiKSYra-KqRbZsHI/view
+    Improving Fairness-Accuracy Tradeoff with Few Test Samples under Covariate Shift: AAAI 2024 [main]
+  Sweta Karlekar: 2 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/13vxWX81tUA-qzIvMpctHSjooL2hYmYYf/view
+    SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories: EMNLP 2018 [main]
+    Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models: NAACL 2018 [main]
+  Millend Roy: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://millendroy.github.io/files/Millend_SoP_Columbia.pdf
+    Reliable Energy Consumption Modeling for an Electric Vehicle Fleet: ACM COMPASS 2022 [main]
+    A Deep Learning Framework for Enhancing Maritime Coastal Security: IEEE INCET 2021 [main]
+    Renewable Energy and Demand Forecasting in an Integrated Smart Grid: IEEE IEMRE 2021 [main]
+  Arghamitra Talukder: 1 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1L-k2t1t5XeIkTKCCtzczsUgRvy8O3liR/view
+    Multi-source Multi-frequency Bio-impedance Measurement Method for Localized Pulse Wave Monitoring: EMBC 2020 [main]
+  Colin: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://database.feiyue.online/applicant/Applicant-00021/
+
+New York University: 2.00 papers/student; 10 papers / 5 counted profiles; 0 excluded
+  我是乔治: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00043/
+    Machine learning systems paper: NeurIPS [main]
+  Jatin Prakash: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1Uc0c9XTmlZIaw1hv8eCUL29I-A8B0Cix/view
+    Renee: End-to-End Training of Extreme Classification Models: MLSys 2023 [main]
+    A Novel Data Augmentation Technique for Out-of-Distribution Sample Detection Using Compounded Corruptions: ECML PKDD 2022 [main]
+    A Stitch in Time Saves Nine: A Train-Time Regularizing Loss for Improved Neural Network Calibration: CVPR 2022 [main]
+  Chenglei Si: 3 recorded main; Findings 3; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1fmp1SjQlqNhb6rniF7HBuF3Pxj9iz0TO/view
+    What’s in a Name? Answer Equivalence for Open-Domain Question Answering: EMNLP 2021 [main]
+    Adversarial Training for Machine Reading Comprehension with Virtual Embeddings: *SEM 2021 [main]
+    CharBERT: Character-aware Pre-trained Language Model: COLING 2020 [main]
+  Will Merrill: 2 recorded main; Findings 0; hybrid 0; workshop 5 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://docs.google.com/document/d/1oQn9_jBVUNutMItuH-Bc3Od8CfwMCBAHnCjdTzBB8K8/edit
+    A Formal Hierarchy of RNN Architectures: ACL 2020 [main]
+    End-to-End Graph-Based TAG Parsing with Neural Networks: NAACL 2018 [main]
+    Sense Abstraction: A Generalization of Intensionality for the Semantics of Subordinate Clauses: TULCon 2018 [unknown]
+  Gordon Dai: 1 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link
+    Be Intentional about Fairness!: Fairness, Size, and Multiplicity in the Rashomon Set: EAAMO 2025 [main]
+
+University of Washington: 1.40 papers/student; 14 papers / 10 counted profiles; 0 excluded
+  Saul Shanabrook: 1 recorded main; Findings 0; hybrid 0; workshop 3
+    Source: https://github.com/saulshanabrook/saulshanabrook/discussions/37
+    Python Array API Standard: Toward Array Interoperability in the Scientific Python Ecosystem: SciPy 2023 [main]
+  Zhiyuan Zeng: 1 recorded main; Findings 1; hybrid 0; workshop 3
+    Source: https://drive.google.com/file/d/1Y7kkev-TH0sRkunvfJ8NqehisPigZ42C/view
+    Plug-and-Play Knowledge Injection for Pre-trained Language Models: ACL 2023 [main]
+  Matt Deitke: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mattdeitke.com/research-statement.pdf
+    ProcTHOR: Large-Scale Embodied AI Using Procedural Generation: NeurIPS 2022 · Outstanding Paper [main]
+    Visual Room Rearrangement: CVPR 2021 · Oral [main]
+    RoboTHOR: An Open Simulation-to-Real Embodied AI Platform: CVPR 2020 [main]
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Joice Tang: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://docs.google.com/document/d/1hv1BP0k87st82vdgXt6kcC2KsYB6dx_31HgK35JjHtc/edit
+  Sebastin Santy: 4 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://github.com/SebastinSanty/sebastinsanty.com/blob/55d5400f983831e454c8cd1ff59644587ef86e7d/v1-jonbarron/data/SebastinSanty_CV.pdf
+    The State and Fate of Linguistic Diversity and Inclusion in the NLP World: ACL 2020 [main]
+    Learnings from Technological Interventions in a Low Resource Language: A Case-Study on Gondi: LREC 2020 [main]
+    Unsung Challenges of Building and Deploying Language Technologies for Low Resource Language Communities: ICON 2019 [main]
+    BITS Darshini: A Modular, Concurrent Protocol Analyzer Workbench: ICDCN 2018 [main]
+  Jiafei Duan: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://medium.com/@jefferyjiafei/grad-school-application-101-117eba3e2d1f
+    ActioNet: Interactive End-to-End Platform for Task-Based Data Collection and Augmentation in 3D Environment: ICIP 2020 [main]
+  Alisa Liu: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1bnYtdVwWH9FuFadxerhHdQmKzXjg0rbh/view
+  Aditya Kusupati: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://www.openessays.org/essays/uw-phd-sop-essay-aditya-2024
+    FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network: NeurIPS 2018 [main]
+  Sewon Min: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1ew3gh_KEqu9ArPR7sKxv1Qx38jXTiXt7/view
+    Question Answering through Transfer Learning from Large Fine-grained Supervision Data: ACL 2017 [main]
+    Query-Reduction Networks for Question Answering: ICLR 2017 [main]
+
+University of Illinois Urbana-Champaign: 0.60 papers/student; 3 papers / 5 counted profiles; 0 excluded
+  我是乔治: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00043/
+    Machine learning systems paper: NeurIPS [main]
+  Benhao Huang: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://huskydoge.github.io/husky-blog/posts/applications/25fall/notes/
+    Defining and Extracting Generalizable Interaction Primitives from DNNs: ICLR 2024 [main]
+  lihan: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00042/
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Colin: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://database.feiyue.online/applicant/Applicant-00021/
+
+University of Pennsylvania: 0.50 papers/student; 1 papers / 2 counted profiles; 0 excluded
+  Honam Wong: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://www.overleaf.com/read/tqwnttmqpmcc
+    Spurious Feature Diversification Improves Out-of-distribution Generalization: ICLR 2024 [main]
+  Mayank Keoliya: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1jdMMqOSbo28TT2f6FXHNC5huxYDsiKYc/view
+
+University of Texas at Austin: 0.00 papers/student; 0 papers / 2 counted profiles; 0 excluded
+  Abhinav Gyawali: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://www.scribd.com/document/1064883858/sop-1
+  lihan: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00042/
+
+Caltech: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Robert Joseph George: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1PZtJL875vb2kbgXjwX4xWCp0W2PN9IKE/view
+
+UC San Diego: 1.00 papers/student; 2 papers / 2 counted profiles; 0 excluded
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Youming Deng: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://denghilbert.github.io/blog/PhD%E7%94%B3%E8%AF%B7%E5%9B%9E%E5%BF%86.html
+    Hierarchical Memory Learning for Fine-Grained Scene Graph Generation: ECCV 2022 [main]
+
+University of Michigan: 1.44 papers/student; 13 papers / 9 counted profiles; 0 excluded
+  Muhammad Ashiq: 3 recorded main; Findings 0; hybrid 0; workshop 2 [NOTE: Full proceedings-paper eligibility unresolved]
+    Source: https://drive.google.com/file/d/1p_hLjVO3YxJV0Gx95VcMraD0chNIAiQG/view
+    Land Emotions: An Initial Analysis of Ethics and Emotive Landscapes on a Community Walk: ICQE 2025 [main]
+    Illustrating the Interplay of Behavioral Patterns and Clinical Competencies in a Virtual Patient Simulation using Epistemic Network Analysis: ICLS 2024 [unknown]
+    Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms Using Transmodal Ordered Network Analysis: LAK 2024 [main]
+    Developing Nursing Students’ Practice Readiness with Shadow Health Digital Clinical Experiences: A Transmodal Analysis: ICQE 2023 [main]
+  Shashank Kirtania: 1 recorded main; Findings 0; hybrid 0; workshop 5
+    Source: https://drive.google.com/file/d/1TjT-KWV4plokLs5oQc6DMdC3A3KgGaMN/view
+    MetaReflection: Learning Instructions for Language Agents using Past Reflections: EMNLP 2024 [main]
+  Riley Paddock: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://drive.google.com/file/d/1CSuG9tG1S4is9oVDmL-aAGdJ3bbPP7qf/view
+  Ishika Joshi: 4 recorded main; Findings 0; hybrid 1; workshop 0
+    Source: https://drive.google.com/file/d/1EMgZzkVrcbZS_fS7YF2OKdKF6TkvE2lm/view
+    Unrest and Trauma Stays with You!: Navigating Mental Health and Professional Service-Seeking in Kashmir: CHI 2024 [main]
+    ChatGPT in the Classroom: An Analysis of Its Strengths and Weaknesses for Solving Undergraduate Computer Science Questions: SIGCSE 2024 [main]
+    It's Not Like Jarvis, but It's Pretty Close!: Examining ChatGPT's Usage among Undergraduate Students in Computer Science: ACE 2024 [main]
+    Magical Mirrors and I: Interweaving Learning with Mirror Play: DiGRA 2022 [main]
+  Ellie Seehorn: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://docs.google.com/document/d/1DFhUAoVDW5WXIADSfrP35LXqEECndoyVv5EDrxdlaVc/edit
+    OPTIMISM: Enabling Collaborative Implementation of Domain-Specific Metaheuristic Optimization: CHI 2023 [main]
+    Enhancing Access to High Quality Tangible Information through Machine Embroidered Tactile Graphics: SCF 2022 [main]
+  Ruijie Gao: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1v3oSPQu5Cvqyh2K78Grmnag0JZjlVoyo/view
+    EDGE-LLM: Enabling Efficient Large Language Model Adaptation on Edge Devices via Unified Compression and Adaptive Layer Voting: DAC 2024 [main]
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+  Yuxuan Jiang: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1HXdU7Mm3uNN9ZZP1sUODu3x-L-Ctz1OY/view
+  Inderjeet Nair: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing
+    Detecting Document Versions and Their Ordering in a Collection: WISE 2021 [main]
+    PAC Mode Estimation using PPR Martingale Confidence Sequences: AISTATS 2022 [main]
+
+Purdue University: 1.00 papers/student; 3 papers / 3 counted profiles; 0 excluded
+  Ankush Gupta: 3 recorded main; Findings 0; hybrid 1; workshop 0
+    Source: https://drive.google.com/file/d/1CGNEP45XKutN30KQggZfBjbAVuYnwo82/view
+    FEEL: Quantifying Heterogeneity in Physiological Signals for Generalizable Emotion Recognition: NeurIPS 2025 [main]
+    EEVR: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning: NeurIPS 2024 [main]
+    Jail Diaries: An Interactive Pop-Up Book Art Installation: IndiaHCI 2023 [main]
+  Alan Chung Ma: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://alan.chung-ma.com/blog/2025-phd-application-experience/
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+
+Johns Hopkins University: 2.50 papers/student; 5 papers / 2 counted profiles; 0 excluded
+  Yash Mehta: 4 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1hq3C-8xM-plk6tFNSdF9d--YdOA_HFKM/view
+    NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy: ICLR 2022 [main]
+    On the Stability and Scalability of Node Perturbation Learning: NeurIPS 2022 [main]
+    Towards Biologically Plausible Convolutional Networks: NeurIPS 2021 [main]
+    Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features: ICDM 2020 [main]
+  Krithika Ramesh: 1 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/13Yk2l-goeZIgDxjE7fX1pOB1aSWiG-wA/view
+    ‘Beach’ to ‘Bitch’: Inadvertent Unsafe Transcription of Kids’ Content on YouTube: AAAI 2022 [main]
+
+University of Southern California: 0.67 papers/student; 4 papers / 6 counted profiles; 0 excluded
+  Md Abrar Jahin: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://github.com/Abrar2652/Abrar2652.github.io/blob/f82ce36f242462b3b7327c8ac82d678c47b4fe70/assets/pdf/blogs/MAJ_SOP_USC.pdf
+  Alireza Arbabi: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1u0UdvYabi5Z6aaT6PyrWEXR6WtDF6hc2/view
+  lihan: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00042/
+  Yutai Zhou: 3 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://docs.google.com/document/d/1R5aB2w95CGDWarm4iVr6lagvnJLkYbXwCz3KeQXbokU/edit
+    Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi: NeurIPS 2021 [main]
+    Towards a Distributed Framework for Multi-Agent Reinforcement Learning Research: HPEC 2020 · Outstanding Paper [main]
+    Learning Emergent Discrete Message Communication for Cooperative Reinforcement Learning: ICRA 2022 [main]
+  Siddartha Devic: 1 recorded main; Findings 0; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1DgXqEC2DFhEYAHMFWJroYfMgKHbjwy7u/view
+    DeepPR: Incremental Recovery for Interdependent VNFs with Deep Reinforcement Learning: GLOBECOM 2019 [main]
+  Qinyuan Ye: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://docs.google.com/document/d/10Ey3eL6eq7lUGwDv7D_IShUwSMBHq5y0/edit
+
+University of Maryland: 1.75 papers/student; 7 papers / 4 counted profiles; 0 excluded
+  Rick: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00049/
+    Time-series analysis paper — NeurIPS: NeurIPS [main]
+    Time-series analysis paper — ICML: ICML [main]
+    Video generation paper: ICML [main]
+  Shaily Bhatt: 3 recorded main; Findings 1; hybrid 0; workshop 2
+    Source: https://drive.google.com/file/d/1hbIW1usf9ochBC77xx9efa74k0pcwqrU/view
+    Re-contextualizing Fairness in NLP: The Case of India: AACL 2022 [main]
+    On the Universality of Deep Contextual Language Models: ICON 2021 [main]
+    Fake News Detection: Experiments and Approaches Beyond Linguistic Features: ICDMAI 2021 [main]
+  Sophia: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00018/
+    Computer vision paper: CVPR [main]
+  Zhenghang Hu: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://zhenghanghu.github.io/2022/07/03/%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93.html
+
+Brown University: 1.00 papers/student; 1 papers / 1 counted profiles; 0 excluded
+  Yong Zheng-Xin: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1gS307sfghvwt6z9QsagyKTjqXSZOKfta/view
+    Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction: LREC 2020 [main]
+
+UC Irvine: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Asif Haider: 0 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1RbyggJNJVrbUoApjArz3J02MPhoxTQuT/view
+
+University of Wisconsin–Madison: 1.33 papers/student; 4 papers / 3 counted profiles; 0 excluded
+  Rick: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00049/
+    Time-series analysis paper — NeurIPS: NeurIPS [main]
+    Time-series analysis paper — ICML: ICML [main]
+    Video generation paper: ICML [main]
+  Edward Edberg Halim: 1 recorded main; Findings 1; hybrid 0; workshop 0
+    Source: https://docs.google.com/document/d/1u_rCYmT_2vVGn4PkvkeruBdR3SkiCZDuptGk_y9Vr4Q/edit
+    LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network: OSDI 2020 [main]
+  Zhenghang Hu: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://zhenghanghu.github.io/2022/07/03/%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93.html
+
+Northeastern University: 3.00 papers/student; 3 papers / 1 counted profiles; 0 excluded
+  Haotian Liu: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1LNhgy54xlh1G2WABu2k8w294BHTRrhTr/view
+    Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies: CoRL 2024 [main]
+    Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance: IROS 2024 [main]
+    Vision-based FDM Printing for Fabricating Airtight Soft Actuators: RoboSoft 2024 [main]
+
+UC Santa Barbara: 4.00 papers/student; 4 papers / 1 counted profiles; 0 excluded
+  Deepak Nathani: 4 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://huggingface.co/spaces/kabir0229/COMS-579/resolve/main/SOP_UCSB.pdf?download=true
+    Few-Shot Learning on Graphs via Super-Classes Based on Graph Spectral Measures: ICLR 2020 [main]
+    Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs: ACL 2019 [main]
+    Solving Partial Assignment Problems Using Random Clique Complexes: ICML 2018 [main]
+    A Persistent Homology Perspective to the Link Prediction Problem: Complex Networks 2019 [main]
+
+Rutgers University: 4.00 papers/student; 4 papers / 1 counted profiles; 0 excluded
+  Fatima Jahara: 4 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1dCveN1BAwGsaBwIhQd4Ds_onl8H-65uW/view
+    Automatic Categorization of News Articles and Headlines Using Multi-layer Perceptron: ICO 2021 [main]
+    OkkhorNama: BdSL Image Dataset for Real Time Object Detection Algorithms: IEEE TENSYMP 2021 [main]
+    Real-Time Bangla Sign Language Detection with Sentence and Speech Generation: ICCIT 2020 [main]
+    Towards POS Tagging Methods for Bengali Language: A Comparative Analysis: ICO 2020 [main]
+
+UNC Chapel Hill: 2.50 papers/student; 5 papers / 2 counted profiles; 0 excluded
+  Soumitri Chattopadhyay: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1PgWPosFcxvrujGJNNmV0ruzWPQEXW2uM/view
+    SWIS: Self-Supervised Representation Learning for Writer Independent Offline Signature Verification: ICIP 2022 [main]
+    SURDS: Self-Supervised Attention-guided Reconstruction and Dual Triplet Loss for Writer Independent Offline Signature Verification: ICPR 2022 [main]
+    Supervision Meets Self-Supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis: MISP 2022 [main]
+  Jaemin Cho: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://j-min.io/files/shared/UNC_SOP_Dec2019.pdf
+    Mixture Content Selection for Diverse Sequence Generation: EMNLP 2019 [main]
+    A Hierarchical Latent Structure for Variational Conversation Modeling: NAACL 2018 [main]
+
+Rochester Institute of Technology: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Arka Dutta: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1GmmebJgvVnRRdYnZWhJHSpcmm_oiQ-RH/view
+
+North Carolina State University: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Feiran (Alex) Qin: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://feiranq.in/cv.pdf
+
+University at Buffalo: 3.00 papers/student; 3 papers / 1 counted profiles; 0 excluded
+  Ahmed Akib Jawad Karim: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1zX96O4ERXsY7mKWttfnXuNR9crvLdFjH/view
+    Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in Comparison to BERT: QPAIN 2025 [main]
+    Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs: ICCIT 2024 [main]
+    Automated Personnel Selection for Software Engineers Using LLM-Based Profile Evaluation: ICCIT 2024 [main]
+
+University of Utah: 2.00 papers/student; 4 papers / 2 counted profiles; 0 excluded
+  Aritra Mazumder: 1 recorded main; Findings 0; hybrid 0; workshop 1
+    Source: https://drive.google.com/file/d/1AeNKT74r8KDz5Gu77DycFKrHKPXXRSmY/view
+    Exploring Optimal Placement of Head-Based Hierarchical Marking Menus on Smartphones: MobiQuitous 2023 [main]
+  David Yue: 3 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Fdavidyue.me%2Fassets%2Fuploads%2Fgraduate_sop%2Futah.pdf
+    Task-Agnostic Language Model Watermarking via High Entropy Passthrough Layers: AAAI 2025 [main]
+    Primary Key Free Watermarking for Numerical Tabular Datasets in Machine Learning: ICPR 2024 [main]
+    NFT-Based Data Marketplace with Digital Watermarking: KDD 2023 [main]
+
+UC Santa Cruz: 1.00 papers/student; 1 papers / 1 counted profiles; 0 excluded
+  Yiwei Yang: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://asplos.dev/UCSC.pdf
+    Attack as Defense: Characterizing Adversarial Examples using Robustness: ISSTA 2021 [main]
+
+Vanderbilt University: 2.00 papers/student; 2 papers / 1 counted profiles; 0 excluded
+  Kevin Guo: 2 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1JHzb0LDZbH98n0ikJfbpZ94hTxu6QaFt/view
+    Inverse Text Normalization of Air Traffic Control System Command Center Planning Telecon Transcriptions: AIAA Aviation 2024 [main]
+    LaBelle: A Deep Learning APP that Helps You Learn Ballet: SIP 2022 [main]
+
+Duke University: 1.00 papers/student; 1 papers / 1 counted profiles; 0 excluded
+  我是乔治: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00043/
+    Machine learning systems paper: NeurIPS [main]
+
+Institute of Science and Technology Austria: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Mahyar Karimi: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1qX3HlfOOEZk0-NTT_LREt9IFvKuqLId1/view
+
+Northwestern University: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Luke: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00020/
+
+Rice University: 1.00 papers/student; 1 papers / 1 counted profiles; 0 excluded
+  我是乔治: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://database.feiyue.online/applicant/Applicant-00043/
+    Machine learning systems paper: NeurIPS [main]
+
+University of Chicago: 0.00 papers/student; 0 papers / 2 counted profiles; 0 excluded
+  Colin: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://database.feiyue.online/applicant/Applicant-00021/
+  Jake Chanenson: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://jakec007.github.io/2021-04-19-swatties-guide-applying-cs-programs/
+
+University of Texas at San Antonio: 7.00 papers/student; 7 papers / 1 counted profiles; 0 excluded
+  Abu Noman Md Sakib: 7 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://drive.google.com/file/d/1xysbmFIwfvQ9Ce2GZ9su5W2tBP9HOeai/view
+    Corn Leaf Disease Identification via Transfer Learning: A Comprehensive Web-Based Solution: ICSISCET 2023 [main]
+    An End-to-End Web-Based System for Rice Leaf Disease Classification Using Deep Learning: IJCACI 2023 [main]
+    Segmentation of Hemorrhagic Areas in Human Brain from CT Scan Images: STI 2022 [main]
+    Classification of Brain Hemorrhage Using Deep Learning from CT Scan Images: ICICTD 2022 [main]
+    A Deep CNN Model for Skin Cancer Detection and Classification: WSCG 2021 [main]
+    SkNet: A Convolutional Neural Networks Based Classification Approach for Skin Cancer Classes: ICCIT 2020 [main]
+    EczemaNet: A Deep CNN-based Eczema Diseases Classification: IPAS 2020 [main]
+
+UMass Amherst: 0.00 papers/student; 0 papers / 3 counted profiles; 0 excluded
+  Jenna Russell: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://jenna-russell.github.io/blog/2024/applying/
+  Md Zarif Ul Alam: 0 recorded main; Findings 0; hybrid 0; workshop 0 [NOTE: No paper inventory; zero is a calculation placeholder, not verified absence]
+    Source: https://github.com/zarif98sjs/how-not-to-do-phd-application
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+
+University of Virginia: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+
+Virginia Tech: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+
+Stony Brook University: 0.00 papers/student; 0 papers / 1 counted profiles; 0 excluded
+  Mushtari Sadia: 0 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://mushtari-sadia.github.io/phdapp.html
+
+University of Notre Dame: 1.00 papers/student; 1 papers / 1 counted profiles; 0 excluded
+  Mohammed Latif Siddiq: 1 recorded main; Findings 0; hybrid 0; workshop 0
+    Source: https://lsiddiqsunny.github.io/public/Research%20Statement.pdf
+    SQLIFIX: Learning Based Approach to Fix SQL Injection Vulnerabilities in Source Code: SANER 2021 [main]
+

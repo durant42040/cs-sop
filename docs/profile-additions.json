@@ -1,0 +1,1173 @@
+{
+  "checked": "2026-11-03",
+  "criteria": "User-approved additions: nine bachelor’s-to-CS-PhD profiles and Xingjian Bai. Other integrated/concurrent degree candidates are not added.",
+  "timing": "Research and paper status reflect application-time statements or dated records, not current PhD publications. Drafts in preparation are labeled explicitly and are not preprints or submissions.",
+  "profiles": [
+    {
+      "school": "Carnegie Mellon University",
+      "profile": {
+        "id": "jenny-liang",
+        "name": "Jenny Liang",
+        "school": "University of Washington",
+        "year": 2020,
+        "major": "Computer Science and Informatics",
+        "educationSource": "https://jennyliang.me/static/media/cv.6abe2412bca19f2291e1.pdf",
+        "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing",
+        "research": [
+          {
+            "place": "University of Washington",
+            "role": "Undergraduate research, explicit programming strategies and novice developer tools",
+            "papers": [],
+            "mentors": "Amy J. Ko",
+            "period": "From 2020",
+            "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+          },
+          {
+            "place": "University of Washington",
+            "role": "Undergraduate research, community-maintained LTE networks",
+            "papers": [],
+            "mentors": "Spencer Sevilla · Kurtis Heimerl",
+            "period": "2019–2020",
+            "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+          },
+          {
+            "place": "University of Washington",
+            "role": "Graduate-course research, neural code completion and source-code metadata",
+            "papers": [],
+            "mentors": "René Just",
+            "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+          },
+          {
+            "place": "Allen Institute for Artificial Intelligence",
+            "role": "Research, interpreting bias in toxic-language classifiers",
+            "papers": [],
+            "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+          },
+          {
+            "place": "Uber",
+            "role": "Software engineering internship, developer tools and build-system latency",
+            "papers": [],
+            "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+          }
+        ],
+        "graduationYear": 2021,
+        "program": "Software Engineering PhD",
+        "paperReview": {
+          "checked": "2026-11-03",
+          "count": null,
+          "status": "limited",
+          "source": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing",
+          "note": "The 2020 application statement describes research but gives no own-paper inventory; no later papers are backfilled."
+        }
+      },
+      "notion": "https://cs-sop.notion.site/65de6ff0f24541ab883c06ab0954c1d8",
+      "originalSop": "https://docs.google.com/document/d/1xtX9q9ialIvshStkrS9VNyACilViHPKvpI3aizXb-aw/edit?usp=sharing"
+    },
+    {
+      "school": "MIT",
+      "profile": {
+        "id": "ameya-daigavane",
+        "name": "Ameya Daigavane",
+        "school": "IIT Guwahati",
+        "year": 2021,
+        "major": "Computer Science and Engineering",
+        "educationSource": "https://ameya98.github.io/pdfs/AmeyaCV.pdf",
+        "source": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing",
+        "research": [
+          {
+            "place": "Google Research",
+            "role": "Predoctoral research, private graph neural networks",
+            "papers": [
+              {
+                "title": "Node-Level Differentially Private Graph Neural Networks",
+                "venue": "ICLR 2022",
+                "status": "Submitted",
+                "year": 2021,
+                "authorship": "First",
+                "url": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+              }
+            ],
+            "mentors": "Gaurav Aggarwal · Prateek Jain · Abhradeep Thakurta",
+            "period": "From September 2020",
+            "source": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+          },
+          {
+            "place": "Google Research",
+            "role": "Interactive explanations and visualizations of graph neural networks",
+            "papers": [
+              {
+                "title": "Understanding Convolutions on Graphs",
+                "venue": "Distill",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "First",
+                "url": "https://distill.pub/2021/understanding-gnns/"
+              },
+              {
+                "title": "Interactive Media for Understanding ML Methods: A Case-Study on Graph Neural Networks",
+                "venue": "Rethinking ML Papers Workshop at ICLR 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "First",
+                "url": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+              }
+            ],
+            "mentors": "Balaraman Ravindran · Gaurav Aggarwal",
+            "source": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+          },
+          {
+            "place": "Google Research",
+            "role": "Collaboration with Google Accelerated Science, cell-imaging visualization and disease signatures",
+            "papers": [
+              {
+                "title": "Integrating Deep Learning and Unbiased Automated High-Content Screening to Identify Complex Disease Signatures in Human Fibroblasts",
+                "venue": "Nature Communications",
+                "status": "Accepted",
+                "year": 2021,
+                "url": "https://www.nature.com/articles/s41467-022-28423-4"
+              }
+            ],
+            "source": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+          },
+          {
+            "place": "NASA Jet Propulsion Laboratory",
+            "role": "Research internship, spacecraft time-series anomaly detection",
+            "papers": [
+              {
+                "title": "Unsupervised Detection of Magnetic Field Boundary Crossings From Plasma Spectrometer Data",
+                "venue": "Computers and Geosciences",
+                "status": "Submitted",
+                "year": 2021,
+                "authorship": "First",
+                "url": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing",
+                "also": [
+                  {
+                    "venue": "MiLeTS Workshop at KDD 2020 · Oral",
+                    "status": "Accepted",
+                    "url": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "title": "Resource Consumption and Radiation Tolerance Assessment for Data Analysis Algorithms Onboard Spacecraft",
+                "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+                "status": "Submitted",
+                "year": 2021,
+                "authorship": "Second",
+                "url": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+              }
+            ],
+            "mentors": "Kiri Wagstaff · Gary Doran",
+            "period": "2019–2020",
+            "source": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+          }
+        ],
+        "graduationYear": 2020
+      },
+      "notion": "https://cs-sop.notion.site/3f78c09e6ead440dadb77428664c5d8f",
+      "originalSop": "https://docs.google.com/document/d/1QKInEBpoIWMGTZeDhZ8nI-TkJuSRr5YCD23-zMMlYGA/edit?usp=sharing"
+    },
+    {
+      "school": "New York University",
+      "profile": {
+        "id": "gordon-dai",
+        "name": "Gordon Dai",
+        "school": "New York University",
+        "year": 2025,
+        "major": "Mathematics and Philosophy",
+        "educationSource": "https://wp.nyu.edu/ml4good/people/",
+        "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link",
+        "research": [
+          {
+            "place": "New York University",
+            "role": "Undergraduate research, model multiplicity and fairness",
+            "papers": [
+              {
+                "title": "Be Intentional about Fairness!: Fairness, Size, and Multiplicity in the Rashomon Set",
+                "venue": "EAAMO 2025",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "First",
+                "url": "https://doi.org/10.1145/3757887.3763011"
+              }
+            ],
+            "mentors": "Emily Black · Daniel B. Neill",
+            "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+          },
+          {
+            "place": "New York University",
+            "role": "Research, hierarchical single-index models and SGD dynamics; manuscript in preparation",
+            "papers": [
+              {
+                "title": "Hierarchical Single-Index Models",
+                "venue": "In preparation",
+                "status": "In preparation",
+                "year": 2025,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+              }
+            ],
+            "mentors": "Joan Bruna",
+            "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+          },
+          {
+            "place": "New York University",
+            "role": "Research, variance-preserving fairness sampling; manuscript in preparation",
+            "papers": [
+              {
+                "title": "Fairness Out of Intention: Reconciling the Equal-Treatment-Equal-Outcome-Paradox in Legal Practices via Variance-Preserving Sampling Methods",
+                "venue": "In preparation",
+                "status": "In preparation",
+                "year": 2025,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+              }
+            ],
+            "mentors": "Emily Black · Daniel B. Neill",
+            "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+          },
+          {
+            "place": "University of California, Santa Barbara",
+            "role": "Research collaboration, LLM-agent social simulations",
+            "papers": [
+              {
+                "title": "Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory",
+                "venue": "AI Behavioral Science Workshop at KDD 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://arxiv.org/abs/2406.14373"
+              }
+            ],
+            "mentors": "Misha Sra",
+            "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+          },
+          {
+            "place": "New York University",
+            "role": "Research, theoretical inconsistency in responsible AI",
+            "papers": [
+              {
+                "title": "Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems",
+                "venue": "NeurIPS 2025 Position Paper Track",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "First",
+                "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/dd4a4bc7a7ba0b197b679c0025cb2df8-Abstract-Position_Paper_Track.html"
+              }
+            ],
+            "source": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+          }
+        ],
+        "graduationYear": 2026
+      },
+      "notion": "https://cs-sop.notion.site/3f08b1bdf3c481f79300ed8fdc20643c",
+      "originalSop": "https://drive.google.com/file/d/1b_huNl9Lu191cJoFqdDzrCRqBGb-BkX5/view?usp=drive_link"
+    },
+    {
+      "school": "Stanford",
+      "profile": {
+        "id": "david-heineman",
+        "name": "David Heineman",
+        "school": "Georgia Institute of Technology",
+        "year": 2025,
+        "major": "Computer Science",
+        "educationSource": "https://davidheineman.com/david-heineman-resume.pdf",
+        "source": "https://davidheineman.com/sop.pdf",
+        "research": [
+          {
+            "place": "Allen Institute for Artificial Intelligence",
+            "role": "Predoctoral research, language-model evaluation, scaling laws and pretraining",
+            "papers": [
+              {
+                "title": "Signal and Noise: A Framework for Reducing Uncertainty in Language Model Evaluation",
+                "venue": "NeurIPS 2025 · Spotlight",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "First",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Fluid Language Model Benchmarking",
+                "venue": "COLM 2025 · Oral",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "Second",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Establishing Task Scaling Laws via Compute-Efficient Model Ladders",
+                "venue": "COLM 2025",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "Fourth",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "DataDecide: How to Predict Best Pretraining Data with Small Experiments",
+                "venue": "ICML 2025",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "Fourth",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "2 OLMo 2 Furious",
+                "venue": "COLM 2025",
+                "status": "Accepted",
+                "year": 2025,
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Olmo 3",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2025,
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Olmix: Efficient Mixture Recomputation for Evolving LM Datasets",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2025,
+                "authorship": "Third",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2025,
+                "url": "https://davidheineman.com/sop.pdf"
+              }
+            ],
+            "mentors": "Kyle Lo · Jesse Dodge",
+            "period": "From 2024",
+            "source": "https://davidheineman.com/sop.pdf"
+          },
+          {
+            "place": "Georgia Institute of Technology",
+            "role": "Undergraduate research and continuing collaboration, fine-grained language-model evaluation",
+            "papers": [
+              {
+                "title": "Evaluating LLMs on Chinese Idiom Translation",
+                "venue": "COLM 2025",
+                "status": "Accepted",
+                "year": 2025,
+                "authorship": "Third",
+                "url": "https://davidheineman.com/"
+              },
+              {
+                "title": "Improving Minimum Bayes Risk Decoding with Multi-Prompt",
+                "venue": "EMNLP 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://davidheineman.com/"
+              },
+              {
+                "title": "Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA",
+                "venue": "EMNLP 2023",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "Thresh: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation",
+                "venue": "EMNLP 2023 Demo",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://davidheineman.com/sop.pdf"
+              },
+              {
+                "title": "LENS: A Learnable Evaluation Metric for Text Simplification",
+                "venue": "ACL 2023",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "Third",
+                "url": "https://davidheineman.com/"
+              }
+            ],
+            "mentors": "Wei Xu · Yao Dou · Mounica Maddela",
+            "source": "https://davidheineman.com/sop.pdf"
+          },
+          {
+            "place": "Georgia Institute of Technology",
+            "role": "Research collaboration, category fluency and cognition",
+            "papers": [
+              {
+                "title": "Towards a Path Dependent Account of Category Fluency",
+                "venue": "CogSci 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://davidheineman.com/"
+              }
+            ],
+            "mentors": "Sashank Varma",
+            "source": "https://davidheineman.com/"
+          },
+          {
+            "place": "Amazon Web Services",
+            "role": "Software engineering internships, EC2 language-model services and CloudWatch telemetry",
+            "papers": [],
+            "source": "https://davidheineman.com/"
+          },
+          {
+            "place": "Patientco",
+            "role": "Software engineering internship, predicting healthcare-bill payment timing",
+            "papers": [],
+            "source": "https://davidheineman.com/"
+          }
+        ],
+        "graduationYear": 2024
+      },
+      "notion": "https://cs-sop.notion.site/3438b1bdf3c480dfa198ceb2d0fe8a3b",
+      "originalSop": "https://davidheineman.com/sop.pdf"
+    },
+    {
+      "school": "Princeton",
+      "profile": {
+        "id": "inhwa-song",
+        "name": "Inhwa Song",
+        "school": "KAIST",
+        "year": 2024,
+        "major": "Computer Science",
+        "educationSource": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view",
+        "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view",
+        "research": [
+          {
+            "place": "NAVER AI Lab",
+            "role": "Research internship, ExploreSelf and LLM-guided reflection",
+            "papers": [
+              {
+                "title": "ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models",
+                "venue": "CHI 2025",
+                "status": "Submitted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://arxiv.org/abs/2409.09662"
+              }
+            ],
+            "mentors": "Young-Ho Kim",
+            "period": "March–September 2024",
+            "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+          },
+          {
+            "place": "Georgia Institute of Technology",
+            "role": "Visiting undergraduate research, LLM chatbots for mental-health support",
+            "papers": [
+              {
+                "title": "The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support",
+                "venue": "CSCW 2024",
+                "status": "Submitted",
+                "year": 2024,
+                "authorship": "Equal first",
+                "url": "https://arxiv.org/abs/2401.14362"
+              },
+              {
+                "title": "Mobile Technology and Teens: Understanding the Changing Needs of Sociocultural and Technical Landscape",
+                "venue": "CHI 2025 Workshop Proposal",
+                "status": "Conditionally accepted",
+                "year": 2024,
+                "authorship": "Second",
+                "url": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+              }
+            ],
+            "mentors": "Munmun De Choudhury",
+            "period": "August 2023–January 2024",
+            "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+          },
+          {
+            "place": "KAIST",
+            "role": "Undergraduate research, cultural awareness and educational dialogue models",
+            "papers": [
+              {
+                "title": "Survey of Cultural Awareness in Language Models: Text and Beyond",
+                "venue": "Computational Linguistics",
+                "status": "Submitted",
+                "year": 2024,
+                "url": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+              }
+            ],
+            "mentors": "Alice Oh",
+            "period": "From September 2024",
+            "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+          },
+          {
+            "place": "KAIST",
+            "role": "Undergraduate research, personal informatics and the God-Saeng phenomenon",
+            "papers": [
+              {
+                "title": "Understanding God-Saeng (God生) Phenomenon: Young Generation’s Pursuit of Authentic Well-being",
+                "venue": "DIS 2025 (in preparation; previously rejected at DIS 2024)",
+                "status": "In preparation",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+              },
+              {
+                "title": "Bridging Values and Technology in God-Saeng Phenomenon: Designing AI for Self-directed Well-being",
+                "venue": "CHI 2024 Workshop on Designing (with) AI for Wellbeing",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+              }
+            ],
+            "mentors": "Hwajung Hong · Janghee Cho",
+            "period": "October 2022–August 2023",
+            "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+          },
+          {
+            "place": "KAIST",
+            "role": "Undergraduate research internship, classroom deployment of learnersourcing tools",
+            "papers": [
+              {
+                "title": "Learnersourcing Modular and Dynamic Multiple Choice Questions",
+                "venue": "Learning at Scale 2022 Workshop on Learnersourcing Student Generated Content",
+                "status": "Accepted",
+                "year": 2022,
+                "authorship": "Second",
+                "url": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+              }
+            ],
+            "mentors": "Juho Kim",
+            "period": "June 2021–September 2022",
+            "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view"
+          }
+        ],
+        "graduationYear": 2025,
+        "paperReview": {
+          "checked": "2026-11-03",
+          "count": 0,
+          "status": "confirmed",
+          "source": "https://drive.google.com/file/d/1KezWQkWLD8p0yQe6wDBXji38ve13gFBx/view",
+          "note": "Application-time CV lists workshop acceptances and manuscripts under review; subsequent CHI/CSCW acceptances are not backdated."
+        }
+      },
+      "notion": "https://cs-sop.notion.site/2318b1bdf3c481f9b5efc84f41c77348",
+      "originalSop": "https://drive.google.com/drive/folders/1jKnb0ybYhQHS6VV4-uLlXz588CKeNoM8?usp=sharing"
+    },
+    {
+      "school": "Princeton",
+      "profile": {
+        "id": "md-toki-tahmid",
+        "name": "Md Toki Tahmid",
+        "school": "Bangladesh University of Engineering and Technology",
+        "year": 2024,
+        "major": "Computer Science and Engineering",
+        "educationSource": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf",
+        "source": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing",
+        "research": [
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Undergraduate research, protein language models, computational proteomics and genomics",
+            "papers": [
+              {
+                "title": "TransBind: Enhancing Precise Detection of DNA-Binding Proteins and DNA-Protein Binding Residues Using Language Models and Deep Learning",
+                "venue": "Communications Biology",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+              },
+              {
+                "title": "BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization",
+                "venue": "ENLSP Workshop at NeurIPS 2024 · Spotlight",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.07.02.601703v2"
+              },
+              {
+                "title": "EmbedSimScore: Advancing Protein Similarity Analysis with Structural and Contextual Embeddings",
+                "venue": "Self-Supervised Learning Workshop at NeurIPS 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "Equal first",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.09.26.615264v1"
+              },
+              {
+                "title": "BioLLMNet: Enhancing RNA-Interaction Prediction with a Specialized Cross-LLM Transformation Network",
+                "venue": "Briefings in Bioinformatics",
+                "status": "Submitted",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              },
+              {
+                "title": "wQFM-TREE: Highly Accurate and Scalable Quartet-Based Species Tree Inference from Gene Trees",
+                "venue": "Bioinformatics Advances",
+                "status": "Submitted",
+                "year": 2024,
+                "authorship": "Fifth",
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              }
+            ],
+            "mentors": "Md. Shamsuzzoha Bayzid",
+            "period": "July 2021–December 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          },
+          {
+            "place": "MIT",
+            "role": "Remote research internship, Computational Connectomics Lab",
+            "papers": [
+              {
+                "title": "Structure Matters: Deciphering Neural Network’s Properties from its Structure",
+                "venue": "Symmetry and Geometry in Neural Representations Workshop at NeurIPS 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "Equal first",
+                "url": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+              }
+            ],
+            "mentors": "Nir Shavit · Lu Mi",
+            "period": "July 2023–December 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          },
+          {
+            "place": "Carnegie Mellon University",
+            "role": "Remote research internship, XuLab · cryo-electron tomography",
+            "papers": [
+              {
+                "title": "TomoPicker: Annotation-Efficient Particle Picking in cryo-electron Tomograms",
+                "venue": "MLSB Workshop at NeurIPS 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "Third",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.11.04.620735v1"
+              }
+            ],
+            "mentors": "Min Xu",
+            "period": "January–December 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          },
+          {
+            "place": "University of California, Riverside",
+            "role": "Research collaboration, RNA language modeling",
+            "papers": [],
+            "mentors": "Yue Dong",
+            "source": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Undergraduate research, Structural and Functional Genomics Research Group",
+            "papers": [
+              {
+                "title": "LOCAS: Multi-label mRNA Localization with Supervised Contrastive Learning",
+                "venue": "MLSB Workshop at NeurIPS 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "Equal first",
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              },
+              {
+                "title": "DeepRNA-Twist: Language Model Guided RNA Torsion Angle Prediction with Attention-Inception Network",
+                "venue": "Briefings in Bioinformatics",
+                "status": "Submitted",
+                "year": 2024,
+                "authorship": "Second",
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              },
+              {
+                "title": "GraFusionNet: Integrating Node, Edge, and Semantic Features for Enhanced Graph Representations",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.11.22.624875v1"
+              }
+            ],
+            "mentors": "M. Saifur Rahman",
+            "period": "July 2023–December 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Undergraduate research, RNA sequence generation",
+            "papers": [
+              {
+                "title": "RNA-DCGen: Dual Constrained RNA Sequence Generation with LLM-Attack",
+                "venue": "MLSB Workshop at NeurIPS 2024",
+                "status": "Accepted",
+                "year": 2024,
+                "authorship": "Equal first",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.09.23.614570v1"
+              }
+            ],
+            "mentors": "Atif Rahman",
+            "source": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Undergraduate research, Next Generation Computing Lab",
+            "papers": [
+              {
+                "title": "Analyzing Impacts on Physiological Aspects of Rickshaw Pullers due to Heat Exposure",
+                "venue": "NSYSS 2024 Symposium",
+                "status": "Accepted",
+                "year": 2024,
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              },
+              {
+                "title": "A Paradigm Shift in Mouza Map Vectorization: A Human-Machine Collaboration Approach",
+                "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+                "status": "Submitted",
+                "year": 2024,
+                "url": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+              },
+              {
+                "title": "A Ubiquitous Method for Predicting Underground Petroleum Deposits Based on Satellite Data",
+                "venue": "Scientific Reports",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "Second",
+                "url": "https://doi.org/10.1038/s41598-023-32054-0"
+              },
+              {
+                "title": "Long-Range Low-Cost Networking for Real-Time Monitoring of Rail Tracks in Developing Countries",
+                "venue": "ICTD 2022",
+                "status": "Accepted",
+                "year": 2022,
+                "authorship": "Seventh",
+                "url": "https://doi.org/10.1145/3572334.3581765"
+              },
+              {
+                "title": "Escalating Post-Disaster Rescue Missions Through Ad-Hoc Victim Localization Exploiting Wi-Fi Networks",
+                "venue": "Heliyon",
+                "status": "Accepted",
+                "year": 2022,
+                "authorship": "Fourth",
+                "url": "https://doi.org/10.1016/j.heliyon.2022.e09314"
+              }
+            ],
+            "mentors": "A. B. M. Alim Al Islam",
+            "period": "January 2022–July 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Research collaboration, biomedical signal processing",
+            "papers": [
+              {
+                "title": "MD-CardioNet: A Multi-Dimensional Deep Neural Network for Cardiovascular Disease Diagnosis from Electrocardiogram",
+                "venue": "IEEE Journal of Biomedical and Health Informatics",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://doi.org/10.1109/JBHI.2023.3308856"
+              }
+            ],
+            "mentors": "Shaikh Anowarul Fattah",
+            "source": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Research collaboration, epidemic forecasting, cybersecurity and biomedical computing",
+            "papers": [
+              {
+                "title": "Forecasting COVID-19 Cases: A Comparative Analysis Between Recurrent and Convolutional Neural Networks",
+                "venue": "Results in Physics",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Second",
+                "url": "https://doi.org/10.1016/j.rinp.2021.104137"
+              },
+              {
+                "title": "State-of-the-Art Artificial Intelligence Based Cyber Defense Model",
+                "venue": "SOLI 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Second",
+                "url": "https://doi.org/10.1109/SOLI54607.2021.9672393"
+              },
+              {
+                "title": "Artificial Intelligence Based Cybersecurity: Two-Step Suitability Test",
+                "venue": "SOLI 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Second",
+                "url": "https://doi.org/10.1109/SOLI54607.2021.9672437"
+              },
+              {
+                "title": "Advancing Noninvasive Mechanical Ventilation: Simulating Techniques for Improved Respiratory Care",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2024,
+                "authorship": "First",
+                "url": "https://www.biorxiv.org/content/10.1101/2024.10.01.616043v1"
+              },
+              {
+                "title": "Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition",
+                "venue": "Preprint",
+                "status": "Preprint",
+                "year": 2024,
+                "authorship": "Third",
+                "url": "https://arxiv.org/abs/2401.12210"
+              }
+            ],
+            "source": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+          },
+          {
+            "place": "Samsung Research and Development Bangladesh",
+            "role": "Machine learning engineer and research assistant, LLM-assisted software testing",
+            "papers": [],
+            "mentors": "Anindya Iqbal",
+            "period": "From January 2024",
+            "source": "https://tokitahmid64.github.io/pdfs/Toki_CV_FINAL.pdf"
+          }
+        ],
+        "graduationYear": 2024
+      },
+      "notion": "https://cs-sop.notion.site/1f48b1bdf3c481ee94cbf4a469b5f266",
+      "originalSop": "https://drive.google.com/file/d/147TTO_69Nnpg8OoECg3C8oPBDfz7G93e/view?usp=sharing"
+    },
+    {
+      "school": "University of Notre Dame",
+      "profile": {
+        "id": "mohammed-latif-siddiq",
+        "name": "Mohammed Latif Siddiq",
+        "school": "Bangladesh University of Engineering and Technology",
+        "year": 2021,
+        "major": "Computer Science and Engineering",
+        "educationSource": "https://lsiddiqsunny.github.io/public/Mohammed_Latif_Siddiq.pdf",
+        "source": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf",
+        "research": [
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Undergraduate thesis, learning-based repair of SQL injection vulnerabilities",
+            "papers": [
+              {
+                "title": "SQLIFIX: Learning Based Approach to Fix SQL Injection Vulnerabilities in Source Code",
+                "venue": "SANER 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Equal first",
+                "url": "https://doi.org/10.1109/SANER50967.2021.00040"
+              }
+            ],
+            "mentors": "Anindya Iqbal",
+            "source": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+          },
+          {
+            "place": "University of Calgary",
+            "role": "Research collaboration, software security flaws in IoT repositories",
+            "papers": [],
+            "mentors": "Gias Uddin",
+            "source": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+          },
+          {
+            "place": "Auburn University",
+            "role": "Research collaboration, clustering questions from MOOCs",
+            "papers": [],
+            "mentors": "Shubhra Kanti Karmaker",
+            "source": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+          },
+          {
+            "place": "Bangladesh University of Engineering and Technology",
+            "role": "Research, user-centered telemedicine design",
+            "papers": [
+              {
+                "title": "Shashthosheba: Dissecting Perception of Bangladeshi People towards Telemedicine Apps through the Lens of Features of the Apps",
+                "venue": "CHI",
+                "status": "Submitted",
+                "year": 2021,
+                "authorship": "Fourth",
+                "url": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+              }
+            ],
+            "mentors": "A. B. M. Alim Al Islam",
+            "source": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+          },
+          {
+            "place": "REVE Systems",
+            "role": "Junior software engineer, enterprise applications",
+            "papers": [],
+            "period": "From March 2021",
+            "source": "https://lsiddiqsunny.github.io/public/Mohammed_Latif_Siddiq.pdf"
+          }
+        ],
+        "graduationYear": 2021
+      },
+      "notion": "https://cs-sop.notion.site/f6a9a15946a842b1b30a493b8127e5ef",
+      "originalSop": "https://lsiddiqsunny.github.io/public/Research%20Statement.pdf"
+    },
+    {
+      "school": "MIT",
+      "profile": {
+        "id": "xiaochen-zhu",
+        "name": "Xiaochen Zhu",
+        "school": "National University of Singapore",
+        "year": 2023,
+        "major": "Computer Science and Mathematics",
+        "educationSource": "https://xczhu.com",
+        "source": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing",
+        "research": [
+          {
+            "place": "National University of Singapore",
+            "role": "Honors thesis, link-local differential privacy for graph neural networks",
+            "papers": [
+              {
+                "title": "Blink: Link Local Differential Privacy in Graph Neural Networks",
+                "venue": "CCS 2023",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+              },
+              {
+                "title": "Link Local Differential Privacy in GNNs via Bayesian Estimation",
+                "venue": "SIGMOD 2023 Student Research Competition Abstract",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "Sole",
+                "url": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+              }
+            ],
+            "mentors": "Xiaokui Xiao · Vincent Tan",
+            "source": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+          },
+          {
+            "place": "National University of Singapore",
+            "role": "Research assistant, split-learning attacks and distribution leakage in federated learning",
+            "papers": [
+              {
+                "title": "Passive Inference Attacks on Split Learning via Adversarial Regularization",
+                "venue": "WWW 2024",
+                "status": "Submitted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+              },
+              {
+                "title": "On Data Distribution Leakage in Cross-Silo Federated Learning",
+                "venue": "IEEE TKDE",
+                "status": "Submitted",
+                "year": 2023,
+                "url": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+              }
+            ],
+            "mentors": "Xiaokui Xiao",
+            "source": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+          },
+          {
+            "place": "National University of Singapore",
+            "role": "Full-time research assistant, federated kernelized bandits and Gaussian-process optimization",
+            "papers": [],
+            "period": "From 2023",
+            "source": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+          },
+          {
+            "place": "Institute for Mathematical Sciences",
+            "role": "Research internship, encrypted vertical federated learning for financial applications",
+            "papers": [],
+            "period": "Summer 2021",
+            "source": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+          }
+        ],
+        "graduationYear": 2023
+      },
+      "notion": "https://cs-sop.notion.site/0ebd124687404965ae067f11ebebf8ac",
+      "originalSop": "https://drive.google.com/file/d/1FwdEOSTFDorA2ssdi7QRRNXdRuGadt_A/view?usp=sharing"
+    },
+    {
+      "school": "MIT",
+      "profile": {
+        "id": "xingjian-bai",
+        "name": "Xingjian Bai",
+        "school": "University of Oxford",
+        "year": 2023,
+        "major": "Mathematics and Computer Science (BA + integrated MMath)",
+        "educationSource": "https://xingjianbai.com/files/XingjianBAI.pdf",
+        "source": "https://xingjianbai.com/",
+        "research": [
+          {
+            "place": "University of Oxford",
+            "role": "Undergraduate research, learning-augmented sorting algorithms",
+            "papers": [
+              {
+                "title": "Sorting with Predictions",
+                "venue": "NeurIPS 2023",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://arxiv.org/abs/2311.00749"
+              }
+            ],
+            "mentors": "Christian Coester",
+            "period": "March–August 2023",
+            "source": "https://xingjianbai.com/files/XingjianBAI.pdf"
+          },
+          {
+            "place": "University of Oxford",
+            "role": "Undergraduate research, Wasserstein distributional robustness",
+            "papers": [
+              {
+                "title": "Wasserstein Distributional Robustness of Neural Networks",
+                "venue": "NeurIPS 2023",
+                "status": "Accepted",
+                "year": 2023,
+                "authorship": "First",
+                "url": "https://arxiv.org/abs/2306.09844"
+              }
+            ],
+            "mentors": "Jan Obłój",
+            "period": "July 2022–April 2023",
+            "source": "https://xingjianbai.com/files/XingjianBAI.pdf"
+          },
+          {
+            "place": "University of Oxford",
+            "role": "AI Safety Research Lab, reward overoptimization",
+            "papers": [
+              {
+                "title": "Goodhart’s Law in Reinforcement Learning",
+                "venue": "ICLR 2024",
+                "status": "Submitted",
+                "year": 2023,
+                "authorship": "Third",
+                "url": "https://arxiv.org/abs/2310.09144"
+              }
+            ],
+            "mentors": "Joar Skalse",
+            "period": "November 2022–March 2023",
+            "source": "https://xingjianbai.com/files/XingjianBAI.pdf"
+          },
+          {
+            "place": "University of Oxford",
+            "role": "Visual Geometry Group, diffusion models",
+            "papers": [],
+            "mentors": "Christian Rupprecht · Luke Melas-Kyriazi",
+            "period": "From October 2023",
+            "source": "https://xingjianbai.com/files/XingjianBAI.pdf"
+          },
+          {
+            "place": "Stanford University",
+            "role": "Visiting research internship, neurosymbolic control for diffusion models",
+            "papers": [],
+            "mentors": "Jiajun Wu · Weiyu Liu · Joy Hsu",
+            "period": "July–September 2023",
+            "source": "https://xingjianbai.com/files/XingjianBAI.pdf"
+          },
+          {
+            "place": "University of Oxford",
+            "role": "Undergraduate research collaboration, multimodal hate detection",
+            "papers": [
+              {
+                "title": "Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset",
+                "venue": "WOAH Workshop at ACL 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Sixth",
+                "url": "https://aclanthology.org/2021.woah-1.4/"
+              }
+            ],
+            "source": "https://aclanthology.org/2021.woah-1.4/"
+          },
+          {
+            "place": "University of Oxford",
+            "role": "Mathematical modeling, invasive species control",
+            "papers": [
+              {
+                "title": "Containing Invasive Species via Cellular Automaton and AI",
+                "venue": "The UMAP Journal",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "First",
+                "url": "https://xingjianbai.com/"
+              }
+            ],
+            "source": "https://xingjianbai.com/"
+          }
+        ],
+        "graduationYear": 2024,
+        "sourceLabel": "Profile & papers",
+        "paperReview": {
+          "checked": "2026-11-03",
+          "count": 2,
+          "status": "limited",
+          "source": "https://xingjianbai.com/",
+          "note": "Original SOP link is unavailable. Dated CV and publication records support two accepted NeurIPS 2023 papers; 2024 acceptances are not backdated."
+        }
+      },
+      "notion": "https://cs-sop.notion.site/5a820f6d07954c1a8db2e0a804729606",
+      "originalSop": "https://xingjianbai.com/files/Statement_of_Purposes__Xingjian_Bai.pdf"
+    },
+    {
+      "school": "University of Michigan",
+      "profile": {
+        "id": "inderjeet-nair",
+        "name": "Inderjeet Nair",
+        "school": "IIT Bombay",
+        "year": 2022,
+        "major": "Electrical Engineering; minor in Computer Science and Engineering",
+        "educationSource": "https://inderjeetnair.github.io/Inderjeet_Nair_University_Resume.pdf",
+        "source": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing",
+        "research": [
+          {
+            "place": "Adobe Research",
+            "role": "Research associate, legal language models and hierarchical document segmentation",
+            "papers": [
+              {
+                "title": "Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining",
+                "venue": "EACL 2023",
+                "status": "Submitted",
+                "year": 2022,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing"
+              },
+              {
+                "title": "A Neural CRF-based Hierarchical Approach for Linear Text Segmentation",
+                "venue": "EACL 2023",
+                "status": "Submitted",
+                "year": 2022,
+                "authorship": "First",
+                "url": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing"
+              }
+            ],
+            "mentors": "Natwar Modani",
+            "period": "From July 2021",
+            "source": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing"
+          },
+          {
+            "place": "Adobe Research",
+            "role": "Research internship, document versioning and prerequisite relations",
+            "papers": [
+              {
+                "title": "Detecting Document Versions and Their Ordering in a Collection",
+                "venue": "WISE 2021",
+                "status": "Accepted",
+                "year": 2021,
+                "authorship": "Fourth",
+                "url": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing"
+              }
+            ],
+            "mentors": "Natwar Modani · Gaurav Verma",
+            "period": "April–July 2020",
+            "source": "https://inderjeetnair.github.io/Inderjeet_Nair_University_Resume.pdf"
+          },
+          {
+            "place": "IIT Bombay",
+            "role": "Undergraduate research, sequential statistical mode estimation",
+            "papers": [
+              {
+                "title": "PAC Mode Estimation using PPR Martingale Confidence Sequences",
+                "venue": "AISTATS 2022",
+                "status": "Accepted",
+                "year": 2022,
+                "authorship": "Fifth",
+                "url": "https://proceedings.mlr.press/v151/anand-jain22a.html"
+              }
+            ],
+            "mentors": "Vinay J. Ribeiro · Shivaram Kalyanakrishnan",
+            "source": "https://inderjeetnair.github.io/Inderjeet_Nair_University_Resume.pdf"
+          }
+        ],
+        "graduationYear": 2021
+      },
+      "notion": "https://cs-sop.notion.site/3f35e3c6f85b41469733c2ae9450aed6",
+      "originalSop": "https://drive.google.com/file/d/1pF3fOoSpxaomfDMGrYKKnAeAmifSqn4L/view?usp=sharing"
+    }
+  ]
+}

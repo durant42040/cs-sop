@@ -1,0 +1,17 @@
+{
+  "applicants": 81,
+  "schools": 21,
+  "fromYear": 2021,
+  "main": {
+    "average": 1.8,
+    "deviation": 1.81,
+    "minimum": 0,
+    "maximum": 10
+  },
+  "all": {
+    "average": 5.04,
+    "deviation": 4.38,
+    "minimum": 0,
+    "maximum": 22
+  }
+}
